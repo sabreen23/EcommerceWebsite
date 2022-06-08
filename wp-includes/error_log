@@ -1,0 +1,256 @@
+[05-Nov-2021 00:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/locale.php on line 11
+[06-Nov-2021 08:46:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[30-Nov-2021 11:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[23-Dec-2021 01:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[24-Dec-2021 23:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[25-Dec-2021 16:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[27-Dec-2021 04:47:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[27-Dec-2021 11:30:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[29-Dec-2021 05:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[14-Jan-2022 17:00:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[29-Jan-2022 19:41:31 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2022 19:41:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2022 19:41:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2022 19:41:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Jan-2022 19:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[10-Feb-2022 13:24:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[10-Feb-2022 13:24:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[10-Feb-2022 13:24:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[10-Feb-2022 13:24:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[10-Feb-2022 13:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[26-Feb-2022 03:51:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[26-Feb-2022 03:51:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[26-Feb-2022 03:51:46 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[26-Feb-2022 03:51:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[26-Feb-2022 03:51:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[24-Mar-2022 07:52:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Mar-2022 07:52:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Mar-2022 07:52:19 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Mar-2022 07:52:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Mar-2022 07:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[27-Mar-2022 09:53:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Mar-2022 09:53:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Mar-2022 09:53:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Mar-2022 09:53:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Mar-2022 09:53:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[29-Mar-2022 03:01:35 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Mar-2022 03:01:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Mar-2022 03:01:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Mar-2022 03:01:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[29-Mar-2022 03:01:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[31-Mar-2022 22:10:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[31-Mar-2022 22:10:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[31-Mar-2022 22:10:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[31-Mar-2022 22:10:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[31-Mar-2022 22:10:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[02-Apr-2022 14:05:03 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-Apr-2022 14:05:03 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-Apr-2022 14:05:03 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-Apr-2022 14:05:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[02-Apr-2022 14:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[04-Apr-2022 19:49:43 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 19:49:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 19:49:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 19:49:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-Apr-2022 19:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[08-Apr-2022 12:09:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 12:09:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 12:09:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 12:09:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 12:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[08-Apr-2022 20:37:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 20:37:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 20:37:14 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 20:37:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[08-Apr-2022 20:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[14-Apr-2022 22:33:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[14-Apr-2022 22:33:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[14-Apr-2022 22:33:21 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[14-Apr-2022 22:33:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[14-Apr-2022 22:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[16-Apr-2022 09:26:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 09:26:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 09:26:51 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 09:26:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-Apr-2022 09:27:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[17-Apr-2022 18:58:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[17-Apr-2022 18:58:00 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[17-Apr-2022 18:58:00 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[17-Apr-2022 18:58:00 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[17-Apr-2022 18:58:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[24-Apr-2022 11:37:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 11:37:46 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 11:37:46 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 11:37:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 11:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[24-Apr-2022 21:34:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 21:34:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 21:34:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 21:34:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[24-Apr-2022 21:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[25-Apr-2022 18:08:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[25-Apr-2022 18:08:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[25-Apr-2022 18:08:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[25-Apr-2022 18:08:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[25-Apr-2022 18:08:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[27-Apr-2022 14:28:02 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 14:28:02 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 14:28:02 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 14:28:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2022 14:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[01-May-2022 09:26:06 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 09:26:06 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 09:26:06 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 09:26:06 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 09:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[01-May-2022 13:04:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 13:04:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 13:04:14 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 13:04:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[01-May-2022 13:04:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[03-May-2022 10:18:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 10:18:37 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 10:18:37 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 10:18:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[03-May-2022 10:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[04-May-2022 08:57:00 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 08:57:01 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 08:57:01 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 08:57:01 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[04-May-2022 08:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[07-May-2022 14:17:50 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 14:17:50 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 14:17:50 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 14:17:50 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 14:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[07-May-2022 23:30:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 23:30:43 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 23:30:43 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 23:30:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2022 23:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[13-May-2022 09:22:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 09:22:48 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 09:22:48 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 09:22:48 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 09:22:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[13-May-2022 13:21:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 13:21:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 13:21:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 13:21:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2022 13:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12
+[16-May-2022 00:01:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-May-2022 00:01:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-May-2022 00:01:14 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-May-2022 00:01:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u481628193/domains/swiddly.com/public_html/wp-includes/class-wp-http.php on line 11
+[16-May-2022 00:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-includes/template-canvas.php on line 12

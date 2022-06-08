@@ -1,0 +1,39 @@
+/*
+Theme Name: Martfury Child
+Theme URI: http://drfuri.com/unero
+Template: martfury
+Author: DrFuri
+Author URI: http://drfuri.com
+Description: Martfury Child Theme.
+Tags: one-column,two-columns,left-sidebar,right-sidebar,full-width-template,post-formats,theme-options,threaded-comments,translation-ready
+Version: 1.0.1630989837
+Updated: 2021-09-07 04:43:57
+
+*/
+
+.dokan-dashboard .dokan-form-group #product_brand, .dokan-dashboard .dokan-form-group #product_brand + .select2 {display: none}
+
+
+.dokan-dashboard .dokan-form-group #wp-post_content-wrap, .dokan-dashboard .dokan-form-group #wp-post_content-wrap + .select2 {display: none}
+
+label[for="post_content"] {display: none}
+
+label[for="product_tag"] {display: none}
+
+#call {
+    background-color: var(--mf-background-primary-color);
+    color: var(--mf-background-primary-text-color);
+    height: 50px;
+    line-height: 50px;
+    padding: 0 25px;
+    transition: all 0.5s;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    border-radius: 0;
+}
+label[for="product_tag"] {display: none}
+button[value="create_and_add_new"]{
+display:none;
+}

@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF For Dokan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-19 13:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: acf-for-dokan"
+
+#: includes/class-acf-for-dokan.php:42
+#, php-format
+msgid "\"%s\" needs \"%s\" to run. Please download and activate it"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-acf-for-dokan.php:85 includes/class-acf-for-dokan.php:87
+msgid "ACF For Dokan"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:85
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allows admin to create new custom field for vendor add/edit product in "
+"vendor dashboard."
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:87
+msgid "Dokan Multivendor Marketplace"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:108
+msgid "Donate to author"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:97
+msgid "Get Pro"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/krazyplugins/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/acf-for-dokan/"
+msgstr ""
+
+#. Author of the plugin
+msgid "krazyplugins"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:107
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:182
+msgid "Select"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:302
+msgid "Select File"
+msgstr ""
+
+#: includes/class-acf-for-dokan.php:123
+msgid "Vendor Edits Allowed?"
+msgstr ""

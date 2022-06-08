@@ -1,0 +1,107 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: September 2, 2021 5:21 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.2
+WORDPRESS:	5.8
+PHP INFO:	7.3.29 | SAPI: apache2handler
+SERVER:		Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 14MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20210902_swiddly_cf35ad5261d18e372521_20210902171941_database.sql
+SQL FILE SIZE: 3.8MB (3979460)
+SQL FILE TIME: 2021-09-02 17:21:15
+SQL RUNTIME: 9.10 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/wordpress-5.8/wordpress
+ARCHIVE FILE: 20210902_swiddly_cf35ad5261d18e372521_20210902171941_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	296.23MB
+STATS:	Dirs 3,467 | Files 22,434
+SQL ADDED: 20210902_swiddly_cf35ad5261d18e372521_20210902171941_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 25901
+    [filename] => C:\xampp\htdocs\wordpress-5.8\wordpress\wp-content\backups-dup-lite\tmp\20210902_swiddly_cf35ad5261d18e372521_20210902171941_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 25900
+[PHP ERR][WARN] MSG:ZipArchive::close(): Read error: No such file or directory [CODE:2|FILE:C:\xampp\htdocs\wordpress-5.8\wordpress\wp-content\plugins\duplicator\classes\package\class.pack.archive.zip.php|LINE:205]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Archive->build, DUP_Zip::create, ZipArchive->close, DUP_Handler::error, DUP_Handler::getMessage
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	ZipArchive close failure.
+DETAILS:
+	The ZipArchive engine is having issues zipping up the files on this server. For more details visit the FAQ
+I'm getting a ZipArchive close failure when building. How can I resolve this?
+[https://snapcreek.com/duplicator/docs/faqs-tech/#faq-package-165-q]
+TRACE:
+	 1. class.pack.archive.zip.php : error (214)
+	 2. class.pack.archive.php : create (105)
+	 3. class.pack.php : build (1318)
+	 4. ctrl.package.php : runZipBuild (98)
+	 5. class-wp-hook.php : duplicator_package_build (303)
+	 6. class-wp-hook.php : apply_filters (327)
+	 7. plugin.php : do_action (470)
+	 8. admin-ajax.php : do_action (187)
+==================================================================================
+
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/wordpress-5.8/wordpress/wp-content/backups-dup-lite/tmp/20210902_swiddly_cf35ad5261d18e372521_20210902171941_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+[PHP ERR][WARN] MSG:ZipArchive::close(): Read error: No such file or directory [CODE:2|FILE:C:\xampp\htdocs\wordpress-5.8\wordpress\wp-content\plugins\duplicator\classes\package\class.pack.installer.php|LINE:409]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Installer->build, DUP_Installer->add_extra_files, DUP_Installer->add_extra_files_using_ziparchive, ZipArchive->close, DUP_Handler::error, DUP_Handler::getMessage
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	Couldn't close archive when adding extra files.
+TRACE:
+	 1. class.pack.installer.php : error (410)
+	 2. class.pack.installer.php : add_extra_files_using_ziparchive (246)
+	 3. class.pack.installer.php : add_extra_files (48)
+	 4. class.pack.php : build (1319)
+	 5. ctrl.package.php : runZipBuild (98)
+	 6. class-wp-hook.php : duplicator_package_build (303)
+	 7. class-wp-hook.php : apply_filters (327)
+	 8. plugin.php : do_action (470)
+	 9. admin-ajax.php : do_action (187)
+==================================================================================
+

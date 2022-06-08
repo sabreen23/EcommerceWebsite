@@ -1,0 +1,1469 @@
+Log created: 2022-01-14 12:12:23
+Type: staging
+[2022-01-14 12:12:23][notice]Start creating staging site.
+[2022-01-14 12:12:23][notice]server info fcgi:Off max execution time: 900 wp version:5.8.3 php version:7.4.26 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:37.78 MB memory_get_peak_usage:37.88 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-01-14 12:12:23][notice]Start processing core.
+[2022-01-14 12:12:23][notice]Prepare to copy core files.
+[2022-01-14 12:12:23][notice]Retrieve the files required to copy.
+[2022-01-14 12:12:23][notice]Create a cache file.
+[2022-01-14 12:12:23][notice]Copying files starts from: 0
+[2022-01-14 12:12:23][notice]Copying files from /home/u481628193/domains/swiddly.com/public_html to /home/u481628193/domains/swiddly.com/public_html/mystaging01
+[2022-01-14 12:12:26][notice]The count of copied files: 500
+[2022-01-14 12:12:26][notice]The next copying files starts from:500
+[2022-01-14 12:12:28][notice]The count of copied files: 500
+[2022-01-14 12:12:28][notice]The next copying files starts from:1000
+[2022-01-14 12:12:31][notice]The count of copied files: 500
+[2022-01-14 12:12:31][notice]The next copying files starts from:1500
+[2022-01-14 12:12:35][notice]The count of copied files: 500
+[2022-01-14 12:12:35][notice]The next copying files starts from:2000
+[2022-01-14 12:12:38][notice]Copying core files is completed.
+[2022-01-14 12:12:38][notice]Replacing table_prefix in wp-config.php is completed.
+[2022-01-14 12:12:41][notice]Start processing wp-content.
+[2022-01-14 12:12:41][notice]Prepare to copy wp-content files.
+[2022-01-14 12:12:41][notice]Retrieve the files required to copy.
+[2022-01-14 12:12:41][notice]Create a cache file.
+[2022-01-14 12:12:41][notice]Copying files starts from: 0
+[2022-01-14 12:12:41][notice]Copying files from /home/u481628193/domains/swiddly.com/public_html/wp-content to /home/u481628193/domains/swiddly.com/public_html/mystaging01/wp-content
+[2022-01-14 12:12:41][notice]Copying wp-content files is completed.
+[2022-01-14 12:12:44][notice]Start processing plugins.
+[2022-01-14 12:12:44][notice]Prepare to copy plugins files.
+[2022-01-14 12:12:44][notice]Retrieve the files required to copy.
+[2022-01-14 12:12:44][notice]Create a cache file.
+[2022-01-14 12:12:45][notice]Copying files starts from: 0
+[2022-01-14 12:12:45][notice]Copying files from /home/u481628193/domains/swiddly.com/public_html/wp-content/plugins to /home/u481628193/domains/swiddly.com/public_html/mystaging01/wp-content/plugins
+[2022-01-14 12:12:47][notice]The count of copied files: 500
+[2022-01-14 12:12:47][notice]The next copying files starts from:500
+[2022-01-14 12:12:51][notice]The count of copied files: 500
+[2022-01-14 12:12:51][notice]The next copying files starts from:1000
+[2022-01-14 12:12:55][notice]The count of copied files: 500
+[2022-01-14 12:12:55][notice]The next copying files starts from:1500
+[2022-01-14 12:12:58][notice]The count of copied files: 500
+[2022-01-14 12:12:58][notice]The next copying files starts from:2000
+[2022-01-14 12:13:02][notice]The count of copied files: 500
+[2022-01-14 12:13:02][notice]The next copying files starts from:2500
+[2022-01-14 12:13:04][notice]The count of copied files: 500
+[2022-01-14 12:13:04][notice]The next copying files starts from:3000
+[2022-01-14 12:13:08][notice]The count of copied files: 500
+[2022-01-14 12:13:08][notice]The next copying files starts from:3500
+[2022-01-14 12:13:10][notice]The count of copied files: 500
+[2022-01-14 12:13:10][notice]The next copying files starts from:4000
+[2022-01-14 12:13:14][notice]The count of copied files: 500
+[2022-01-14 12:13:14][notice]The next copying files starts from:4500
+[2022-01-14 12:13:17][notice]The count of copied files: 500
+[2022-01-14 12:13:17][notice]The next copying files starts from:5000
+[2022-01-14 12:13:20][notice]The count of copied files: 500
+[2022-01-14 12:13:20][notice]The next copying files starts from:5500
+[2022-01-14 12:13:23][notice]The count of copied files: 500
+[2022-01-14 12:13:23][notice]The next copying files starts from:6000
+[2022-01-14 12:13:26][notice]The count of copied files: 500
+[2022-01-14 12:13:26][notice]The next copying files starts from:6500
+[2022-01-14 12:13:27][notice]The count of copied files: 500
+[2022-01-14 12:13:27][notice]The next copying files starts from:7000
+[2022-01-14 12:13:30][notice]The count of copied files: 500
+[2022-01-14 12:13:30][notice]The next copying files starts from:7500
+[2022-01-14 12:13:34][notice]The count of copied files: 500
+[2022-01-14 12:13:34][notice]The next copying files starts from:8000
+[2022-01-14 12:13:37][notice]The count of copied files: 500
+[2022-01-14 12:13:37][notice]The next copying files starts from:8500
+[2022-01-14 12:13:40][notice]The count of copied files: 500
+[2022-01-14 12:13:40][notice]The next copying files starts from:9000
+[2022-01-14 12:13:42][notice]The count of copied files: 500
+[2022-01-14 12:13:42][notice]The next copying files starts from:9500
+[2022-01-14 12:13:46][notice]The count of copied files: 500
+[2022-01-14 12:13:46][notice]The next copying files starts from:10000
+[2022-01-14 12:13:48][notice]The count of copied files: 500
+[2022-01-14 12:13:48][notice]The next copying files starts from:10500
+[2022-01-14 12:13:51][notice]The count of copied files: 500
+[2022-01-14 12:13:51][notice]The next copying files starts from:11000
+[2022-01-14 12:13:55][notice]The count of copied files: 500
+[2022-01-14 12:13:55][notice]The next copying files starts from:11500
+[2022-01-14 12:13:59][notice]The count of copied files: 500
+[2022-01-14 12:13:59][notice]The next copying files starts from:12000
+[2022-01-14 12:14:02][notice]The count of copied files: 500
+[2022-01-14 12:14:02][notice]The next copying files starts from:12500
+[2022-01-14 12:14:06][notice]The count of copied files: 500
+[2022-01-14 12:14:06][notice]The next copying files starts from:13000
+[2022-01-14 12:14:09][notice]The count of copied files: 500
+[2022-01-14 12:14:09][notice]The next copying files starts from:13500
+[2022-01-14 12:14:13][notice]The count of copied files: 500
+[2022-01-14 12:14:13][notice]The next copying files starts from:14000
+[2022-01-14 12:14:16][notice]The count of copied files: 500
+[2022-01-14 12:14:16][notice]The next copying files starts from:14500
+[2022-01-14 12:14:19][notice]The count of copied files: 500
+[2022-01-14 12:14:19][notice]The next copying files starts from:15000
+[2022-01-14 12:14:22][notice]The count of copied files: 500
+[2022-01-14 12:14:22][notice]The next copying files starts from:15500
+[2022-01-14 12:14:27][notice]The count of copied files: 500
+[2022-01-14 12:14:27][notice]The next copying files starts from:16000
+[2022-01-14 12:14:30][notice]The count of copied files: 500
+[2022-01-14 12:14:30][notice]The next copying files starts from:16500
+[2022-01-14 12:14:35][notice]The count of copied files: 500
+[2022-01-14 12:14:35][notice]The next copying files starts from:17000
+[2022-01-14 12:14:37][notice]The count of copied files: 500
+[2022-01-14 12:14:37][notice]The next copying files starts from:17500
+[2022-01-14 12:14:41][notice]The count of copied files: 500
+[2022-01-14 12:14:41][notice]The next copying files starts from:18000
+[2022-01-14 12:14:44][notice]The count of copied files: 500
+[2022-01-14 12:14:44][notice]The next copying files starts from:18500
+[2022-01-14 12:14:48][notice]The count of copied files: 500
+[2022-01-14 12:14:48][notice]The next copying files starts from:19000
+[2022-01-14 12:14:51][notice]The count of copied files: 500
+[2022-01-14 12:14:51][notice]The next copying files starts from:19500
+[2022-01-14 12:14:54][notice]The count of copied files: 500
+[2022-01-14 12:14:54][notice]The next copying files starts from:20000
+[2022-01-14 12:14:58][notice]The count of copied files: 500
+[2022-01-14 12:14:58][notice]The next copying files starts from:20500
+[2022-01-14 12:15:01][notice]The count of copied files: 500
+[2022-01-14 12:15:01][notice]The next copying files starts from:21000
+[2022-01-14 12:15:04][notice]The count of copied files: 500
+[2022-01-14 12:15:04][notice]The next copying files starts from:21500
+[2022-01-14 12:15:07][notice]The count of copied files: 500
+[2022-01-14 12:15:07][notice]The next copying files starts from:22000
+[2022-01-14 12:15:10][notice]The count of copied files: 500
+[2022-01-14 12:15:10][notice]The next copying files starts from:22500
+[2022-01-14 12:15:13][notice]The count of copied files: 500
+[2022-01-14 12:15:13][notice]The next copying files starts from:23000
+[2022-01-14 12:15:16][notice]The count of copied files: 500
+[2022-01-14 12:15:16][notice]The next copying files starts from:23500
+[2022-01-14 12:15:20][notice]The count of copied files: 500
+[2022-01-14 12:15:20][notice]The next copying files starts from:24000
+[2022-01-14 12:15:23][notice]The count of copied files: 500
+[2022-01-14 12:15:23][notice]The next copying files starts from:24500
+[2022-01-14 12:15:26][notice]The count of copied files: 500
+[2022-01-14 12:15:26][notice]The next copying files starts from:25000
+[2022-01-14 12:15:30][notice]The count of copied files: 500
+[2022-01-14 12:15:30][notice]The next copying files starts from:25500
+[2022-01-14 12:15:33][notice]The count of copied files: 500
+[2022-01-14 12:15:33][notice]The next copying files starts from:26000
+[2022-01-14 12:15:36][notice]The count of copied files: 500
+[2022-01-14 12:15:36][notice]The next copying files starts from:26500
+[2022-01-14 12:15:40][notice]The count of copied files: 500
+[2022-01-14 12:15:40][notice]The next copying files starts from:27000
+[2022-01-14 12:15:43][notice]The count of copied files: 500
+[2022-01-14 12:15:43][notice]The next copying files starts from:27500
+[2022-01-14 12:15:46][notice]The count of copied files: 500
+[2022-01-14 12:15:46][notice]The next copying files starts from:28000
+[2022-01-14 12:15:50][notice]The count of copied files: 500
+[2022-01-14 12:15:50][notice]The next copying files starts from:28500
+[2022-01-14 12:15:52][notice]The count of copied files: 500
+[2022-01-14 12:15:52][notice]The next copying files starts from:29000
+[2022-01-14 12:15:56][notice]The count of copied files: 500
+[2022-01-14 12:15:56][notice]The next copying files starts from:29500
+[2022-01-14 12:16:01][notice]The count of copied files: 500
+[2022-01-14 12:16:01][notice]The next copying files starts from:30000
+[2022-01-14 12:16:03][notice]The count of copied files: 500
+[2022-01-14 12:16:03][notice]The next copying files starts from:30500
+[2022-01-14 12:16:07][notice]The count of copied files: 500
+[2022-01-14 12:16:07][notice]The next copying files starts from:31000
+[2022-01-14 12:16:10][notice]The count of copied files: 500
+[2022-01-14 12:16:10][notice]The next copying files starts from:31500
+[2022-01-14 12:16:12][notice]Copying plugins files is completed.
+[2022-01-14 12:16:16][notice]Start processing theme.
+[2022-01-14 12:16:16][notice]Prepare to copy theme files.
+[2022-01-14 12:16:16][notice]Retrieve the files required to copy.
+[2022-01-14 12:16:16][notice]Create a cache file.
+[2022-01-14 12:16:16][notice]Copying files starts from: 0
+[2022-01-14 12:16:16][notice]Copying files from /home/u481628193/domains/swiddly.com/public_html/wp-content/themes to /home/u481628193/domains/swiddly.com/public_html/mystaging01/wp-content/themes
+[2022-01-14 12:16:17][notice]The count of copied files: 500
+[2022-01-14 12:16:17][notice]The next copying files starts from:500
+[2022-01-14 12:16:20][notice]The count of copied files: 500
+[2022-01-14 12:16:20][notice]The next copying files starts from:1000
+[2022-01-14 12:16:23][notice]The count of copied files: 500
+[2022-01-14 12:16:23][notice]The next copying files starts from:1500
+[2022-01-14 12:16:23][notice]Copying theme files is completed.
+[2022-01-14 12:16:27][notice]Start processing upload.
+[2022-01-14 12:16:27][notice]Prepare to copy upload files.
+[2022-01-14 12:16:27][notice]Retrieve the files required to copy.
+[2022-01-14 12:16:27][notice]Create a cache file.
+[2022-01-14 12:16:27][notice]Copying files starts from: 0
+[2022-01-14 12:16:27][notice]Copying files from /home/u481628193/domains/swiddly.com/public_html/wp-content/uploads to /home/u481628193/domains/swiddly.com/public_html/mystaging01/wp-content/uploads
+[2022-01-14 12:16:39][notice]The count of copied files: 500
+[2022-01-14 12:16:39][notice]The next copying files starts from:500
+[2022-01-14 12:17:03][notice]The count of copied files: 500
+[2022-01-14 12:17:03][notice]The next copying files starts from:1000
+[2022-01-14 12:17:24][notice]The count of copied files: 500
+[2022-01-14 12:17:24][notice]The next copying files starts from:1500
+[2022-01-14 12:17:41][notice]The count of copied files: 500
+[2022-01-14 12:17:41][notice]The next copying files starts from:2000
+[2022-01-14 12:18:00][notice]The count of copied files: 500
+[2022-01-14 12:18:00][notice]The next copying files starts from:2500
+[2022-01-14 12:18:17][notice]The count of copied files: 500
+[2022-01-14 12:18:17][notice]The next copying files starts from:3000
+[2022-01-14 12:18:37][notice]The count of copied files: 500
+[2022-01-14 12:18:37][notice]The next copying files starts from:3500
+[2022-01-14 12:18:58][notice]The count of copied files: 500
+[2022-01-14 12:18:58][notice]The next copying files starts from:4000
+[2022-01-14 12:19:20][notice]The count of copied files: 500
+[2022-01-14 12:19:20][notice]The next copying files starts from:4500
+[2022-01-14 12:19:40][notice]The count of copied files: 500
+[2022-01-14 12:19:40][notice]The next copying files starts from:5000
+[2022-01-14 12:20:00][notice]The count of copied files: 500
+[2022-01-14 12:20:00][notice]The next copying files starts from:5500
+[2022-01-14 12:20:15][notice]The count of copied files: 500
+[2022-01-14 12:20:15][notice]The next copying files starts from:6000
+[2022-01-14 12:20:33][notice]The count of copied files: 500
+[2022-01-14 12:20:33][notice]The next copying files starts from:6500
+[2022-01-14 12:20:51][notice]The count of copied files: 500
+[2022-01-14 12:20:51][notice]The next copying files starts from:7000
+[2022-01-14 12:21:03][notice]The count of copied files: 500
+[2022-01-14 12:21:03][notice]The next copying files starts from:7500
+[2022-01-14 12:21:04][notice]Copying upload files is completed.
+[2022-01-14 12:21:09][notice]Start processing db.
+[2022-01-14 12:21:09][notice]Prepare to copy database.
+[2022-01-14 12:21:09][notice]Retrieve the tables required to copy.
+[2022-01-14 12:21:09][notice]Copying wp_actionscheduler_actions is completed.
+[2022-01-14 12:21:13][notice]Start processing db.
+[2022-01-14 12:21:13][notice]Prepare to copy database.
+[2022-01-14 12:21:13][notice]Copying wp_actionscheduler_claims is completed.
+[2022-01-14 12:21:17][notice]Start processing db.
+[2022-01-14 12:21:17][notice]Prepare to copy database.
+[2022-01-14 12:21:17][notice]Copying wp_actionscheduler_groups is completed.
+[2022-01-14 12:21:21][notice]Start processing db.
+[2022-01-14 12:21:21][notice]Prepare to copy database.
+[2022-01-14 12:21:21][notice]Copying wp_actionscheduler_logs is completed.
+[2022-01-14 12:21:25][notice]Start processing db.
+[2022-01-14 12:21:25][notice]Prepare to copy database.
+[2022-01-14 12:21:25][notice]Copying wp_aioseo_notifications is completed.
+[2022-01-14 12:21:29][notice]Start processing db.
+[2022-01-14 12:21:29][notice]Prepare to copy database.
+[2022-01-14 12:21:29][notice]Copying wp_aioseo_posts is completed.
+[2022-01-14 12:21:33][notice]Start processing db.
+[2022-01-14 12:21:33][notice]Prepare to copy database.
+[2022-01-14 12:21:33][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:33][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":10000,"finished":0}
+[2022-01-14 12:21:34][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:34][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":20000,"finished":0}
+[2022-01-14 12:21:34][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:34][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":30000,"finished":0}
+[2022-01-14 12:21:34][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:34][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":40000,"finished":0}
+[2022-01-14 12:21:34][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:34][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":50000,"finished":0}
+[2022-01-14 12:21:34][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:34][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":60000,"finished":0}
+[2022-01-14 12:21:34][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:34][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":70000,"finished":0}
+[2022-01-14 12:21:35][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:35][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":80000,"finished":0}
+[2022-01-14 12:21:35][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:35][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":90000,"finished":0}
+[2022-01-14 12:21:35][notice]Copying 10000 queries is completed.
+[2022-01-14 12:21:35][notice]The next copying table info: {"name":"wp_avc_page_visit_history","create":1,"start":100000,"finished":0}
+[2022-01-14 12:21:35][notice]Copying wp_avc_page_visit_history is completed.
+[2022-01-14 12:21:38][notice]Start processing db.
+[2022-01-14 12:21:38][notice]Prepare to copy database.
+[2022-01-14 12:21:38][notice]Copying wp_chaty_contact_form_leads is completed.
+[2022-01-14 12:21:42][notice]Start processing db.
+[2022-01-14 12:21:42][notice]Prepare to copy database.
+[2022-01-14 12:21:42][notice]Copying wp_commentmeta is completed.
+[2022-01-14 12:21:45][notice]Start processing db.
+[2022-01-14 12:21:45][notice]Prepare to copy database.
+[2022-01-14 12:21:45][notice]Copying wp_comments is completed.
+[2022-01-14 12:21:48][notice]Start processing db.
+[2022-01-14 12:21:48][notice]Prepare to copy database.
+[2022-01-14 12:21:48][notice]Copying wp_dokan_announcement is completed.
+[2022-01-14 12:21:51][notice]Start processing db.
+[2022-01-14 12:21:51][notice]Prepare to copy database.
+[2022-01-14 12:21:51][notice]Copying wp_dokan_delivery_time is completed.
+[2022-01-14 12:21:55][notice]Start processing db.
+[2022-01-14 12:21:55][notice]Prepare to copy database.
+[2022-01-14 12:21:55][notice]Copying wp_dokan_distance_rate_shipping is completed.
+[2022-01-14 12:21:59][notice]Start processing db.
+[2022-01-14 12:21:59][notice]Prepare to copy database.
+[2022-01-14 12:21:59][notice]Copying wp_dokan_follow_store_followers is completed.
+[2022-01-14 12:22:04][notice]Start processing db.
+[2022-01-14 12:22:04][notice]Prepare to copy database.
+[2022-01-14 12:22:04][notice]Copying wp_dokan_orders is completed.
+[2022-01-14 12:22:07][notice]Start processing db.
+[2022-01-14 12:22:07][notice]Prepare to copy database.
+[2022-01-14 12:22:07][notice]Copying wp_dokan_product_map is completed.
+[2022-01-14 12:22:11][notice]Start processing db.
+[2022-01-14 12:22:11][notice]Prepare to copy database.
+[2022-01-14 12:22:11][notice]Copying wp_dokan_refund is completed.
+[2022-01-14 12:22:14][notice]Start processing db.
+[2022-01-14 12:22:14][notice]Prepare to copy database.
+[2022-01-14 12:22:14][notice]Copying wp_dokan_report_abuse_reports is completed.
+[2022-01-14 12:22:17][notice]Start processing db.
+[2022-01-14 12:22:17][notice]Prepare to copy database.
+[2022-01-14 12:22:17][notice]Copying wp_dokan_rma_conversations is completed.
+[2022-01-14 12:22:20][notice]Start processing db.
+[2022-01-14 12:22:20][notice]Prepare to copy database.
+[2022-01-14 12:22:20][notice]Copying wp_dokan_rma_request is completed.
+[2022-01-14 12:22:23][notice]Start processing db.
+[2022-01-14 12:22:23][notice]Prepare to copy database.
+[2022-01-14 12:22:24][notice]Copying wp_dokan_rma_request_product is completed.
+[2022-01-14 12:22:27][notice]Start processing db.
+[2022-01-14 12:22:27][notice]Prepare to copy database.
+[2022-01-14 12:22:27][notice]Copying wp_dokan_shipping_tracking is completed.
+[2022-01-14 12:22:30][notice]Start processing db.
+[2022-01-14 12:22:30][notice]Prepare to copy database.
+[2022-01-14 12:22:30][notice]Copying wp_dokan_shipping_zone_locations is completed.
+[2022-01-14 12:22:33][notice]Start processing db.
+[2022-01-14 12:22:33][notice]Prepare to copy database.
+[2022-01-14 12:22:33][notice]Copying wp_dokan_shipping_zone_methods is completed.
+[2022-01-14 12:22:36][notice]Start processing db.
+[2022-01-14 12:22:36][notice]Prepare to copy database.
+[2022-01-14 12:22:36][notice]Copying wp_dokan_table_rate_shipping is completed.
+[2022-01-14 12:22:39][notice]Start processing db.
+[2022-01-14 12:22:39][notice]Prepare to copy database.
+[2022-01-14 12:22:39][notice]Copying wp_dokan_vendor_balance is completed.
+[2022-01-14 12:22:43][notice]Start processing db.
+[2022-01-14 12:22:43][notice]Prepare to copy database.
+[2022-01-14 12:22:43][notice]Copying wp_dokan_withdraw is completed.
+[2022-01-14 12:22:47][notice]Start processing db.
+[2022-01-14 12:22:47][notice]Prepare to copy database.
+[2022-01-14 12:22:47][notice]Copying wp_duplicator_packages is completed.
+[2022-01-14 12:22:50][notice]Start processing db.
+[2022-01-14 12:22:50][notice]Prepare to copy database.
+[2022-01-14 12:22:50][notice]Copying wp_gla_budget_recommendations is completed.
+[2022-01-14 12:22:53][notice]Start processing db.
+[2022-01-14 12:22:53][notice]Prepare to copy database.
+[2022-01-14 12:22:54][notice]Copying wp_gla_merchant_issues is completed.
+[2022-01-14 12:22:57][notice]Start processing db.
+[2022-01-14 12:22:57][notice]Prepare to copy database.
+[2022-01-14 12:22:57][notice]Copying wp_gla_shipping_rates is completed.
+[2022-01-14 12:23:00][notice]Start processing db.
+[2022-01-14 12:23:00][notice]Prepare to copy database.
+[2022-01-14 12:23:00][notice]Copying wp_gla_shipping_times is completed.
+[2022-01-14 12:23:03][notice]Start processing db.
+[2022-01-14 12:23:03][notice]Prepare to copy database.
+[2022-01-14 12:23:03][notice]Copying wp_import_detail_log is completed.
+[2022-01-14 12:23:06][notice]Start processing db.
+[2022-01-14 12:23:06][notice]Prepare to copy database.
+[2022-01-14 12:23:06][notice]Copying wp_import_log_detail is completed.
+[2022-01-14 12:23:10][notice]Start processing db.
+[2022-01-14 12:23:10][notice]Prepare to copy database.
+[2022-01-14 12:23:10][notice]Copying wp_import_postID is completed.
+[2022-01-14 12:23:13][notice]Start processing db.
+[2022-01-14 12:23:13][notice]Prepare to copy database.
+[2022-01-14 12:23:13][notice]Copying wp_links is completed.
+[2022-01-14 12:23:16][notice]Start processing db.
+[2022-01-14 12:23:16][notice]Prepare to copy database.
+[2022-01-14 12:23:16][notice]Copying wp_litespeed_url is completed.
+[2022-01-14 12:23:19][notice]Start processing db.
+[2022-01-14 12:23:19][notice]Prepare to copy database.
+[2022-01-14 12:23:19][notice]Copying wp_litespeed_url_file is completed.
+[2022-01-14 12:23:22][notice]Start processing db.
+[2022-01-14 12:23:22][notice]Prepare to copy database.
+[2022-01-14 12:23:22][notice]Copying wp_mailchimp_carts is completed.
+[2022-01-14 12:23:26][notice]Start processing db.
+[2022-01-14 12:23:26][notice]Prepare to copy database.
+[2022-01-14 12:23:27][notice]Copying wp_mailchimp_jobs is completed.
+[2022-01-14 12:23:30][notice]Start processing db.
+[2022-01-14 12:23:30][notice]Prepare to copy database.
+[2022-01-14 12:23:30][notice]Copying wp_mailpoet_custom_fields is completed.
+[2022-01-14 12:23:33][notice]Start processing db.
+[2022-01-14 12:23:33][notice]Prepare to copy database.
+[2022-01-14 12:23:33][notice]Copying wp_mailpoet_dynamic_segment_filters is completed.
+[2022-01-14 12:23:36][notice]Start processing db.
+[2022-01-14 12:23:36][notice]Prepare to copy database.
+[2022-01-14 12:23:36][notice]Copying wp_mailpoet_feature_flags is completed.
+[2022-01-14 12:23:40][notice]Start processing db.
+[2022-01-14 12:23:40][notice]Prepare to copy database.
+[2022-01-14 12:23:40][notice]Copying wp_mailpoet_forms is completed.
+[2022-01-14 12:23:45][notice]Start processing db.
+[2022-01-14 12:23:45][notice]Prepare to copy database.
+[2022-01-14 12:23:45][notice]Copying wp_mailpoet_log is completed.
+[2022-01-14 12:23:49][notice]Start processing db.
+[2022-01-14 12:23:49][notice]Prepare to copy database.
+[2022-01-14 12:23:49][notice]Copying wp_mailpoet_mapping_to_external_entities is completed.
+[2022-01-14 12:23:53][notice]Start processing db.
+[2022-01-14 12:23:53][notice]Prepare to copy database.
+[2022-01-14 12:23:53][notice]Copying wp_mailpoet_newsletter_links is completed.
+[2022-01-14 12:23:57][notice]Start processing db.
+[2022-01-14 12:23:57][notice]Prepare to copy database.
+[2022-01-14 12:23:57][notice]Copying wp_mailpoet_newsletter_option is completed.
+[2022-01-14 12:24:01][notice]Start processing db.
+[2022-01-14 12:24:01][notice]Prepare to copy database.
+[2022-01-14 12:24:01][notice]Copying wp_mailpoet_newsletter_option_fields is completed.
+[2022-01-14 12:24:05][notice]Start processing db.
+[2022-01-14 12:24:05][notice]Prepare to copy database.
+[2022-01-14 12:24:05][notice]Copying wp_mailpoet_newsletter_posts is completed.
+[2022-01-14 12:24:09][notice]Start processing db.
+[2022-01-14 12:24:09][notice]Prepare to copy database.
+[2022-01-14 12:24:09][notice]Copying wp_mailpoet_newsletter_segment is completed.
+[2022-01-14 12:24:13][notice]Start processing db.
+[2022-01-14 12:24:13][notice]Prepare to copy database.
+[2022-01-14 12:24:13][notice]Copying wp_mailpoet_newsletter_templates is completed.
+[2022-01-14 12:24:17][notice]Start processing db.
+[2022-01-14 12:24:17][notice]Prepare to copy database.
+[2022-01-14 12:24:17][notice]Copying wp_mailpoet_newsletters is completed.
+[2022-01-14 12:24:21][notice]Start processing db.
+[2022-01-14 12:24:21][notice]Prepare to copy database.
+[2022-01-14 12:24:21][notice]Copying wp_mailpoet_scheduled_task_subscribers is completed.
+[2022-01-14 12:24:25][notice]Start processing db.
+[2022-01-14 12:24:25][notice]Prepare to copy database.
+[2022-01-14 12:24:25][notice]Copying wp_mailpoet_scheduled_tasks is completed.
+[2022-01-14 12:24:29][notice]Start processing db.
+[2022-01-14 12:24:29][notice]Prepare to copy database.
+[2022-01-14 12:24:29][notice]Copying wp_mailpoet_segments is completed.
+[2022-01-14 12:24:33][notice]Start processing db.
+[2022-01-14 12:24:33][notice]Prepare to copy database.
+[2022-01-14 12:24:33][notice]Copying wp_mailpoet_sending_queues is completed.
+[2022-01-14 12:24:37][notice]Start processing db.
+[2022-01-14 12:24:37][notice]Prepare to copy database.
+[2022-01-14 12:24:37][notice]Copying wp_mailpoet_settings is completed.
+[2022-01-14 12:24:41][notice]Start processing db.
+[2022-01-14 12:24:41][notice]Prepare to copy database.
+[2022-01-14 12:24:41][notice]Copying wp_mailpoet_statistics_clicks is completed.
+[2022-01-14 12:24:45][notice]Start processing db.
+[2022-01-14 12:24:45][notice]Prepare to copy database.
+[2022-01-14 12:24:45][notice]Copying wp_mailpoet_statistics_forms is completed.
+[2022-01-14 12:24:49][notice]Start processing db.
+[2022-01-14 12:24:49][notice]Prepare to copy database.
+[2022-01-14 12:24:49][notice]Copying wp_mailpoet_statistics_newsletters is completed.
+[2022-01-14 12:24:53][notice]Start processing db.
+[2022-01-14 12:24:53][notice]Prepare to copy database.
+[2022-01-14 12:24:53][notice]Copying wp_mailpoet_statistics_opens is completed.
+[2022-01-14 12:24:57][notice]Start processing db.
+[2022-01-14 12:24:57][notice]Prepare to copy database.
+[2022-01-14 12:24:57][notice]Copying wp_mailpoet_statistics_unsubscribes is completed.
+[2022-01-14 12:25:01][notice]Start processing db.
+[2022-01-14 12:25:01][notice]Prepare to copy database.
+[2022-01-14 12:25:01][notice]Copying wp_mailpoet_statistics_woocommerce_purchases is completed.
+[2022-01-14 12:25:05][notice]Start processing db.
+[2022-01-14 12:25:05][notice]Prepare to copy database.
+[2022-01-14 12:25:05][notice]Copying wp_mailpoet_stats_notifications is completed.
+[2022-01-14 12:25:09][notice]Start processing db.
+[2022-01-14 12:25:09][notice]Prepare to copy database.
+[2022-01-14 12:25:09][notice]Copying wp_mailpoet_subscriber_custom_field is completed.
+[2022-01-14 12:25:13][notice]Start processing db.
+[2022-01-14 12:25:13][notice]Prepare to copy database.
+[2022-01-14 12:25:13][notice]Copying wp_mailpoet_subscriber_ips is completed.
+[2022-01-14 12:25:17][notice]Start processing db.
+[2022-01-14 12:25:17][notice]Prepare to copy database.
+[2022-01-14 12:25:17][notice]Copying wp_mailpoet_subscriber_segment is completed.
+[2022-01-14 12:25:21][notice]Start processing db.
+[2022-01-14 12:25:21][notice]Prepare to copy database.
+[2022-01-14 12:25:21][notice]Copying wp_mailpoet_subscribers is completed.
+[2022-01-14 12:25:25][notice]Start processing db.
+[2022-01-14 12:25:25][notice]Prepare to copy database.
+[2022-01-14 12:25:25][notice]Copying wp_mailpoet_user_agents is completed.
+[2022-01-14 12:25:29][notice]Start processing db.
+[2022-01-14 12:25:29][notice]Prepare to copy database.
+[2022-01-14 12:25:29][notice]Copying wp_mailpoet_user_flags is completed.
+[2022-01-14 12:25:33][notice]Start processing db.
+[2022-01-14 12:25:33][notice]Prepare to copy database.
+[2022-01-14 12:25:33][notice]Copying wp_nx_entries is completed.
+[2022-01-14 12:25:37][notice]Start processing db.
+[2022-01-14 12:25:37][notice]Prepare to copy database.
+[2022-01-14 12:25:37][notice]Copying wp_nx_posts is completed.
+[2022-01-14 12:25:41][notice]Start processing db.
+[2022-01-14 12:25:41][notice]Prepare to copy database.
+[2022-01-14 12:25:41][notice]Copying wp_nx_stats is completed.
+[2022-01-14 12:25:45][notice]Start processing db.
+[2022-01-14 12:25:45][notice]Prepare to copy database.
+[2022-01-14 12:25:45][notice]Copying wp_options is completed.
+[2022-01-14 12:25:49][notice]Start processing db.
+[2022-01-14 12:25:49][notice]Prepare to copy database.
+[2022-01-14 12:25:49][notice]Copying 10000 queries is completed.
+[2022-01-14 12:25:49][notice]The next copying table info: {"name":"wp_postmeta","create":1,"start":10000,"finished":0}
+[2022-01-14 12:25:50][notice]Copying 10000 queries is completed.
+[2022-01-14 12:25:50][notice]The next copying table info: {"name":"wp_postmeta","create":1,"start":20000,"finished":0}
+[2022-01-14 12:25:50][notice]Copying 10000 queries is completed.
+[2022-01-14 12:25:50][notice]The next copying table info: {"name":"wp_postmeta","create":1,"start":30000,"finished":0}
+[2022-01-14 12:25:51][notice]Copying wp_postmeta is completed.
+[2022-01-14 12:25:54][notice]Start processing db.
+[2022-01-14 12:25:54][notice]Prepare to copy database.
+[2022-01-14 12:25:55][notice]Copying wp_posts is completed.
+[2022-01-14 12:26:12][notice]Start processing db.
+[2022-01-14 12:26:12][notice]Prepare to copy database.
+[2022-01-14 12:26:12][notice]Copying wp_pv_commission is completed.
+[2022-01-14 12:26:17][notice]Start processing db.
+[2022-01-14 12:26:17][notice]Prepare to copy database.
+[2022-01-14 12:26:17][notice]Copying wp_rank_math_internal_links is completed.
+[2022-01-14 12:26:21][notice]Start processing db.
+[2022-01-14 12:26:21][notice]Prepare to copy database.
+[2022-01-14 12:26:21][notice]Copying wp_rank_math_internal_meta is completed.
+[2022-01-14 12:26:25][notice]Start processing db.
+[2022-01-14 12:26:25][notice]Prepare to copy database.
+[2022-01-14 12:26:25][notice]Copying wp_revslider_css is completed.
+[2022-01-14 12:26:29][notice]Start processing db.
+[2022-01-14 12:26:29][notice]Prepare to copy database.
+[2022-01-14 12:26:29][notice]Copying wp_revslider_css_bkp is completed.
+[2022-01-14 12:26:33][notice]Start processing db.
+[2022-01-14 12:26:33][notice]Prepare to copy database.
+[2022-01-14 12:26:33][notice]Copying wp_revslider_layer_animations is completed.
+[2022-01-14 12:26:37][notice]Start processing db.
+[2022-01-14 12:26:37][notice]Prepare to copy database.
+[2022-01-14 12:26:37][notice]Copying wp_revslider_layer_animations_bkp is completed.
+[2022-01-14 12:26:41][notice]Start processing db.
+[2022-01-14 12:26:41][notice]Prepare to copy database.
+[2022-01-14 12:26:41][notice]Copying wp_revslider_navigations is completed.
+[2022-01-14 12:26:45][notice]Start processing db.
+[2022-01-14 12:26:45][notice]Prepare to copy database.
+[2022-01-14 12:26:45][notice]Copying wp_revslider_navigations_bkp is completed.
+[2022-01-14 12:26:49][notice]Start processing db.
+[2022-01-14 12:26:49][notice]Prepare to copy database.
+[2022-01-14 12:26:49][notice]Copying wp_revslider_sliders is completed.
+[2022-01-14 12:26:53][notice]Start processing db.
+[2022-01-14 12:26:53][notice]Prepare to copy database.
+[2022-01-14 12:26:53][notice]Copying wp_revslider_sliders_bkp is completed.
+[2022-01-14 12:26:57][notice]Start processing db.
+[2022-01-14 12:26:57][notice]Prepare to copy database.
+[2022-01-14 12:26:57][notice]Copying wp_revslider_slides is completed.
+[2022-01-14 12:27:01][notice]Start processing db.
+[2022-01-14 12:27:01][notice]Prepare to copy database.
+[2022-01-14 12:27:01][notice]Copying wp_revslider_slides_bkp is completed.
+[2022-01-14 12:27:05][notice]Start processing db.
+[2022-01-14 12:27:05][notice]Prepare to copy database.
+[2022-01-14 12:27:05][notice]Copying wp_revslider_static_slides is completed.
+[2022-01-14 12:27:09][notice]Start processing db.
+[2022-01-14 12:27:09][notice]Prepare to copy database.
+[2022-01-14 12:27:10][notice]Copying wp_revslider_static_slides_bkp is completed.
+[2022-01-14 12:27:13][notice]Start processing db.
+[2022-01-14 12:27:13][notice]Prepare to copy database.
+[2022-01-14 12:27:13][notice]Copying wp_smackcsv_file_events is completed.
+[2022-01-14 12:27:17][notice]Start processing db.
+[2022-01-14 12:27:17][notice]Prepare to copy database.
+[2022-01-14 12:27:17][notice]Copying wp_smackuci_events is completed.
+[2022-01-14 12:27:21][notice]Start processing db.
+[2022-01-14 12:27:21][notice]Prepare to copy database.
+[2022-01-14 12:27:21][notice]Copying wp_social_users is completed.
+[2022-01-14 12:27:25][notice]Start processing db.
+[2022-01-14 12:27:25][notice]Prepare to copy database.
+[2022-01-14 12:27:25][notice]Copying wp_term_relationships is completed.
+[2022-01-14 12:27:30][notice]Start processing db.
+[2022-01-14 12:27:30][notice]Prepare to copy database.
+[2022-01-14 12:27:30][notice]Copying wp_term_taxonomy is completed.
+[2022-01-14 12:27:34][notice]Start processing db.
+[2022-01-14 12:27:34][notice]Prepare to copy database.
+[2022-01-14 12:27:34][notice]Copying wp_termmeta is completed.
+[2022-01-14 12:27:38][notice]Start processing db.
+[2022-01-14 12:27:38][notice]Prepare to copy database.
+[2022-01-14 12:27:38][notice]Copying wp_terms is completed.
+[2022-01-14 12:27:42][notice]Start processing db.
+[2022-01-14 12:27:42][notice]Prepare to copy database.
+[2022-01-14 12:27:42][notice]Copying wp_ultimate_csv_importer_acf_fields is completed.
+[2022-01-14 12:27:47][notice]Start processing db.
+[2022-01-14 12:27:47][notice]Prepare to copy database.
+[2022-01-14 12:27:47][notice]Copying wp_ultimate_csv_importer_mappingtemplate is completed.
+[2022-01-14 12:27:51][notice]Start processing db.
+[2022-01-14 12:27:51][notice]Prepare to copy database.
+[2022-01-14 12:27:51][notice]Copying wp_ultimate_csv_importer_media is completed.
+[2022-01-14 12:27:55][notice]Start processing db.
+[2022-01-14 12:27:55][notice]Prepare to copy database.
+[2022-01-14 12:27:55][notice]Copying wp_ultimate_csv_importer_shortcode_manager is completed.
+[2022-01-14 12:27:59][notice]Start processing db.
+[2022-01-14 12:27:59][notice]Prepare to copy database.
+[2022-01-14 12:27:59][notice]Copying wp_ultimate_post_entries is completed.
+[2022-01-14 12:28:03][notice]Start processing db.
+[2022-01-14 12:28:03][notice]Prepare to copy database.
+[2022-01-14 12:28:03][notice]Copying wp_usermeta is completed.
+[2022-01-14 12:28:09][notice]Start processing db.
+[2022-01-14 12:28:09][notice]Prepare to copy database.
+[2022-01-14 12:28:09][notice]Copying wp_users is completed.
+[2022-01-14 12:28:13][notice]Start processing db.
+[2022-01-14 12:28:13][notice]Prepare to copy database.
+[2022-01-14 12:28:13][notice]Copying wp_wc_admin_note_actions is completed.
+[2022-01-14 12:28:17][notice]Start processing db.
+[2022-01-14 12:28:17][notice]Prepare to copy database.
+[2022-01-14 12:28:17][notice]Copying wp_wc_admin_notes is completed.
+[2022-01-14 12:28:21][notice]Start processing db.
+[2022-01-14 12:28:21][notice]Prepare to copy database.
+[2022-01-14 12:28:21][notice]Copying wp_wc_category_lookup is completed.
+[2022-01-14 12:28:27][notice]Start processing db.
+[2022-01-14 12:28:27][notice]Prepare to copy database.
+[2022-01-14 12:28:27][notice]Copying wp_wc_customer_lookup is completed.
+[2022-01-14 12:28:31][notice]Start processing db.
+[2022-01-14 12:28:31][notice]Prepare to copy database.
+[2022-01-14 12:28:31][notice]Copying wp_wc_download_log is completed.
+[2022-01-14 12:28:35][notice]Start processing db.
+[2022-01-14 12:28:35][notice]Prepare to copy database.
+[2022-01-14 12:28:35][notice]Copying wp_wc_order_coupon_lookup is completed.
+[2022-01-14 12:28:40][notice]Start processing db.
+[2022-01-14 12:28:40][notice]Prepare to copy database.
+[2022-01-14 12:28:40][notice]Copying wp_wc_order_product_lookup is completed.
+[2022-01-14 12:28:45][notice]Start processing db.
+[2022-01-14 12:28:45][notice]Prepare to copy database.
+[2022-01-14 12:28:45][notice]Copying wp_wc_order_stats is completed.
+[2022-01-14 12:28:49][notice]Start processing db.
+[2022-01-14 12:28:49][notice]Prepare to copy database.
+[2022-01-14 12:28:49][notice]Copying wp_wc_order_tax_lookup is completed.
+[2022-01-14 12:28:53][notice]Start processing db.
+[2022-01-14 12:28:53][notice]Prepare to copy database.
+[2022-01-14 12:28:53][notice]Copying wp_wc_product_meta_lookup is completed.
+[2022-01-14 12:28:57][notice]Start processing db.
+[2022-01-14 12:28:57][notice]Prepare to copy database.
+[2022-01-14 12:28:57][notice]Copying wp_wc_reserved_stock is completed.
+[2022-01-14 12:29:01][notice]Start processing db.
+[2022-01-14 12:29:01][notice]Prepare to copy database.
+[2022-01-14 12:29:02][notice]Copying wp_wc_tax_rate_classes is completed.
+[2022-01-14 12:29:05][notice]Start processing db.
+[2022-01-14 12:29:05][notice]Prepare to copy database.
+[2022-01-14 12:29:05][notice]Copying wp_wc_webhooks is completed.
+[2022-01-14 12:29:10][notice]Start processing db.
+[2022-01-14 12:29:10][notice]Prepare to copy database.
+[2022-01-14 12:29:10][notice]Copying wp_wemail_forms is completed.
+[2022-01-14 12:29:14][notice]Start processing db.
+[2022-01-14 12:29:14][notice]Prepare to copy database.
+[2022-01-14 12:29:14][notice]Copying wp_woocommerce_api_keys is completed.
+[2022-01-14 12:29:18][notice]Start processing db.
+[2022-01-14 12:29:18][notice]Prepare to copy database.
+[2022-01-14 12:29:18][notice]Copying wp_woocommerce_attribute_taxonomies is completed.
+[2022-01-14 12:29:22][notice]Start processing db.
+[2022-01-14 12:29:23][notice]Prepare to copy database.
+[2022-01-14 12:29:23][notice]Copying wp_woocommerce_downloadable_product_permissions is completed.
+[2022-01-14 12:29:28][notice]Start processing db.
+[2022-01-14 12:29:28][notice]Prepare to copy database.
+[2022-01-14 12:29:28][notice]Copying wp_woocommerce_log is completed.
+[2022-01-14 12:29:32][notice]Start processing db.
+[2022-01-14 12:29:32][notice]Prepare to copy database.
+[2022-01-14 12:29:32][notice]Copying wp_woocommerce_order_itemmeta is completed.
+[2022-01-14 12:29:36][notice]Start processing db.
+[2022-01-14 12:29:36][notice]Prepare to copy database.
+[2022-01-14 12:29:36][notice]Copying wp_woocommerce_order_items is completed.
+[2022-01-14 12:29:40][notice]Start processing db.
+[2022-01-14 12:29:40][notice]Prepare to copy database.
+[2022-01-14 12:29:40][notice]Copying wp_woocommerce_payment_tokenmeta is completed.
+[2022-01-14 12:29:44][notice]Start processing db.
+[2022-01-14 12:29:44][notice]Prepare to copy database.
+[2022-01-14 12:29:44][notice]Copying wp_woocommerce_payment_tokens is completed.
+[2022-01-14 12:29:48][notice]Start processing db.
+[2022-01-14 12:29:48][notice]Prepare to copy database.
+[2022-01-14 12:29:48][notice]Copying wp_woocommerce_sessions is completed.
+[2022-01-14 12:29:52][notice]Start processing db.
+[2022-01-14 12:29:52][notice]Prepare to copy database.
+[2022-01-14 12:29:52][notice]Copying wp_woocommerce_shipping_zone_locations is completed.
+[2022-01-14 12:29:56][notice]Start processing db.
+[2022-01-14 12:29:56][notice]Prepare to copy database.
+[2022-01-14 12:29:57][notice]Copying wp_woocommerce_shipping_zone_methods is completed.
+[2022-01-14 12:30:00][notice]Start processing db.
+[2022-01-14 12:30:00][notice]Prepare to copy database.
+[2022-01-14 12:30:00][notice]Copying wp_woocommerce_shipping_zones is completed.
+[2022-01-14 12:30:05][notice]Start processing db.
+[2022-01-14 12:30:05][notice]Prepare to copy database.
+[2022-01-14 12:30:05][notice]Copying wp_woocommerce_tax_rate_locations is completed.
+[2022-01-14 12:30:10][notice]Start processing db.
+[2022-01-14 12:30:10][notice]Prepare to copy database.
+[2022-01-14 12:30:10][notice]Copying wp_woocommerce_tax_rates is completed.
+[2022-01-14 12:30:14][notice]Start processing db.
+[2022-01-14 12:30:14][notice]Prepare to copy database.
+[2022-01-14 12:30:14][notice]Copying wp_wpmailsmtp_debug_events is completed.
+[2022-01-14 12:30:19][notice]Start processing db.
+[2022-01-14 12:30:19][notice]Prepare to copy database.
+[2022-01-14 12:30:19][notice]Copying wp_wpmailsmtp_tasks_meta is completed.
+[2022-01-14 12:30:23][notice]Start processing db.
+[2022-01-14 12:30:23][notice]Prepare to copy database.
+[2022-01-14 12:30:23][notice]Copying wp_wpvivid_scan_result is completed.
+[2022-01-14 12:30:28][notice]Start processing db.
+[2022-01-14 12:30:28][notice]Prepare to copy database.
+[2022-01-14 12:30:28][notice]Copying wp_wpvivid_unused_uploads_files is completed.
+[2022-01-14 12:30:32][notice]Start processing db.
+[2022-01-14 12:30:32][notice]Prepare to copy database.
+[2022-01-14 12:30:32][notice]Copying wp_wt_iew_action_history is completed.
+[2022-01-14 12:30:37][notice]Start processing db.
+[2022-01-14 12:30:37][notice]Prepare to copy database.
+[2022-01-14 12:30:37][notice]Copying wp_wt_iew_cron is completed.
+[2022-01-14 12:30:41][notice]Start processing db.
+[2022-01-14 12:30:41][notice]Prepare to copy database.
+[2022-01-14 12:30:41][notice]Copying wp_wt_iew_ftp is completed.
+[2022-01-14 12:30:45][notice]Start processing db.
+[2022-01-14 12:30:45][notice]Prepare to copy database.
+[2022-01-14 12:30:45][notice]Copying wp_wt_iew_mapping_template is completed.
+[2022-01-14 12:30:49][notice]Start processing db.
+[2022-01-14 12:30:49][notice]Prepare to copy database.
+[2022-01-14 12:30:49][notice]Copying wp_yith_wcwl is completed.
+[2022-01-14 12:30:53][notice]Start processing db.
+[2022-01-14 12:30:53][notice]Prepare to copy database.
+[2022-01-14 12:30:53][notice]Copying wp_yith_wcwl_lists is completed.
+[2022-01-14 12:30:57][notice]Start processing db.
+[2022-01-14 12:30:57][notice]Prepare to copy database.
+[2022-01-14 12:30:57][notice]Copying wp_yoast_indexable is completed.
+[2022-01-14 12:31:01][notice]Start processing db.
+[2022-01-14 12:31:01][notice]Prepare to copy database.
+[2022-01-14 12:31:01][notice]Copying wp_yoast_indexable_hierarchy is completed.
+[2022-01-14 12:31:06][notice]Start processing db.
+[2022-01-14 12:31:06][notice]Prepare to copy database.
+[2022-01-14 12:31:06][notice]Copying wp_yoast_migrations is completed.
+[2022-01-14 12:31:10][notice]Start processing db.
+[2022-01-14 12:31:10][notice]Prepare to copy database.
+[2022-01-14 12:31:11][notice]Copying wp_yoast_primary_term is completed.
+[2022-01-14 12:31:14][notice]Start processing db.
+[2022-01-14 12:31:14][notice]Prepare to copy database.
+[2022-01-14 12:31:15][notice]Copying wp_yoast_seo_links is completed.
+[2022-01-14 12:31:15][notice]Database copying is completed.
+[2022-01-14 12:31:19][notice]Start processing db_replace.
+[2022-01-14 12:31:19][notice]Prepare to replace database.
+[2022-01-14 12:31:19][notice]Retrieve the tables required to replace.
+[2022-01-14 12:31:19][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:31:19][notice]Replacing database tables is completed.
+[2022-01-14 12:31:19][notice]Replacing wpvividstg01_actionscheduler_actions is completed.
+[2022-01-14 12:31:23][notice]Start processing db_replace.
+[2022-01-14 12:31:23][notice]Prepare to replace database.
+[2022-01-14 12:31:23][notice]Replacing database tables is completed.
+[2022-01-14 12:31:23][notice]Replacing wpvividstg01_actionscheduler_claims is completed.
+[2022-01-14 12:31:29][notice]Start processing db_replace.
+[2022-01-14 12:31:29][notice]Prepare to replace database.
+[2022-01-14 12:31:29][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:31:29][notice]Replacing database tables is completed.
+[2022-01-14 12:31:29][notice]Replacing wpvividstg01_actionscheduler_groups is completed.
+[2022-01-14 12:31:33][notice]Start processing db_replace.
+[2022-01-14 12:31:33][notice]Prepare to replace database.
+[2022-01-14 12:31:33][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:31:33][notice]Replacing database tables is completed.
+[2022-01-14 12:31:34][notice]Replacing wpvividstg01_actionscheduler_logs is completed.
+[2022-01-14 12:31:38][notice]Start processing db_replace.
+[2022-01-14 12:31:38][notice]Prepare to replace database.
+[2022-01-14 12:31:38][notice]Replacing database tables is completed.
+[2022-01-14 12:31:38][notice]Replacing wpvividstg01_aioseo_notifications is completed.
+[2022-01-14 12:31:43][notice]Start processing db_replace.
+[2022-01-14 12:31:43][notice]Prepare to replace database.
+[2022-01-14 12:31:43][notice]Replacing database tables is completed.
+[2022-01-14 12:31:43][notice]Replacing wpvividstg01_aioseo_posts is completed.
+[2022-01-14 12:31:47][notice]Start processing db_replace.
+[2022-01-14 12:31:47][notice]Prepare to replace database.
+[2022-01-14 12:31:47][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:31:49][notice]Replacing database tables is completed.
+[2022-01-14 12:31:49][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:49][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":5000,"finished":0}
+[2022-01-14 12:31:49][notice]Start replacing the table prefix from 5000 row.
+[2022-01-14 12:31:51][notice]Replacing database tables is completed.
+[2022-01-14 12:31:51][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:51][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":10000,"finished":0}
+[2022-01-14 12:31:51][notice]Start replacing the table prefix from 10000 row.
+[2022-01-14 12:31:52][notice]Replacing database tables is completed.
+[2022-01-14 12:31:52][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:52][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":15000,"finished":0}
+[2022-01-14 12:31:52][notice]Start replacing the table prefix from 15000 row.
+[2022-01-14 12:31:52][notice]Replacing database tables is completed.
+[2022-01-14 12:31:52][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:52][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":20000,"finished":0}
+[2022-01-14 12:31:53][notice]Start replacing the table prefix from 20000 row.
+[2022-01-14 12:31:53][notice]Replacing database tables is completed.
+[2022-01-14 12:31:53][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:53][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":25000,"finished":0}
+[2022-01-14 12:31:53][notice]Start replacing the table prefix from 25000 row.
+[2022-01-14 12:31:54][notice]Replacing database tables is completed.
+[2022-01-14 12:31:54][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:54][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":30000,"finished":0}
+[2022-01-14 12:31:54][notice]Start replacing the table prefix from 30000 row.
+[2022-01-14 12:31:54][notice]Replacing database tables is completed.
+[2022-01-14 12:31:54][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:54][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":35000,"finished":0}
+[2022-01-14 12:31:54][notice]Start replacing the table prefix from 35000 row.
+[2022-01-14 12:31:55][notice]Replacing database tables is completed.
+[2022-01-14 12:31:55][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:55][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":40000,"finished":0}
+[2022-01-14 12:31:55][notice]Start replacing the table prefix from 40000 row.
+[2022-01-14 12:31:55][notice]Replacing database tables is completed.
+[2022-01-14 12:31:55][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:55][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":45000,"finished":0}
+[2022-01-14 12:31:55][notice]Start replacing the table prefix from 45000 row.
+[2022-01-14 12:31:56][notice]Replacing database tables is completed.
+[2022-01-14 12:31:56][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:56][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":50000,"finished":0}
+[2022-01-14 12:31:56][notice]Start replacing the table prefix from 50000 row.
+[2022-01-14 12:31:56][notice]Replacing database tables is completed.
+[2022-01-14 12:31:56][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:56][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":55000,"finished":0}
+[2022-01-14 12:31:56][notice]Start replacing the table prefix from 55000 row.
+[2022-01-14 12:31:57][notice]Replacing database tables is completed.
+[2022-01-14 12:31:57][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:57][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":60000,"finished":0}
+[2022-01-14 12:31:57][notice]Start replacing the table prefix from 60000 row.
+[2022-01-14 12:31:57][notice]Replacing database tables is completed.
+[2022-01-14 12:31:57][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:57][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":65000,"finished":0}
+[2022-01-14 12:31:57][notice]Start replacing the table prefix from 65000 row.
+[2022-01-14 12:31:58][notice]Replacing database tables is completed.
+[2022-01-14 12:31:58][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:58][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":70000,"finished":0}
+[2022-01-14 12:31:58][notice]Start replacing the table prefix from 70000 row.
+[2022-01-14 12:31:58][notice]Replacing database tables is completed.
+[2022-01-14 12:31:58][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:58][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":75000,"finished":0}
+[2022-01-14 12:31:58][notice]Start replacing the table prefix from 75000 row.
+[2022-01-14 12:31:58][notice]Replacing database tables is completed.
+[2022-01-14 12:31:58][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:58][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":80000,"finished":0}
+[2022-01-14 12:31:58][notice]Start replacing the table prefix from 80000 row.
+[2022-01-14 12:31:59][notice]Replacing database tables is completed.
+[2022-01-14 12:31:59][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:59][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":85000,"finished":0}
+[2022-01-14 12:31:59][notice]Start replacing the table prefix from 85000 row.
+[2022-01-14 12:31:59][notice]Replacing database tables is completed.
+[2022-01-14 12:31:59][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:31:59][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":90000,"finished":0}
+[2022-01-14 12:31:59][notice]Start replacing the table prefix from 90000 row.
+[2022-01-14 12:32:00][notice]Replacing database tables is completed.
+[2022-01-14 12:32:00][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:32:00][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":95000,"finished":0}
+[2022-01-14 12:32:00][notice]Start replacing the table prefix from 95000 row.
+[2022-01-14 12:32:01][notice]Replacing database tables is completed.
+[2022-01-14 12:32:01][notice]5000 queries of wpvividstg01_avc_page_visit_history is replaced.
+[2022-01-14 12:32:01][notice]The next replacing table info: {"name":"wpvividstg01_avc_page_visit_history","create":1,"start":100000,"finished":0}
+[2022-01-14 12:32:01][notice]Start replacing the table prefix from 100000 row.
+[2022-01-14 12:32:01][notice]Replacing database tables is completed.
+[2022-01-14 12:32:01][notice]Replacing wpvividstg01_avc_page_visit_history is completed.
+[2022-01-14 12:32:05][notice]Start processing db_replace.
+[2022-01-14 12:32:05][notice]Prepare to replace database.
+[2022-01-14 12:32:05][notice]Replacing database tables is completed.
+[2022-01-14 12:32:05][notice]Replacing wpvividstg01_chaty_contact_form_leads is completed.
+[2022-01-14 12:32:14][notice]Start processing db_replace.
+[2022-01-14 12:32:14][notice]Prepare to replace database.
+[2022-01-14 12:32:14][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:32:14][notice]Replacing database tables is completed.
+[2022-01-14 12:32:14][notice]Replacing wpvividstg01_commentmeta is completed.
+[2022-01-14 12:32:21][notice]Start processing db_replace.
+[2022-01-14 12:32:21][notice]Prepare to replace database.
+[2022-01-14 12:32:21][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:32:21][notice]Replacing database tables is completed.
+[2022-01-14 12:32:21][notice]Replacing wpvividstg01_comments is completed.
+[2022-01-14 12:32:26][notice]Start processing db_replace.
+[2022-01-14 12:32:26][notice]Prepare to replace database.
+[2022-01-14 12:32:26][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:32:26][notice]Replacing database tables is completed.
+[2022-01-14 12:32:26][notice]Replacing wpvividstg01_dokan_announcement is completed.
+[2022-01-14 12:32:31][notice]Start processing db_replace.
+[2022-01-14 12:32:31][notice]Prepare to replace database.
+[2022-01-14 12:32:31][notice]Replacing database tables is completed.
+[2022-01-14 12:32:31][notice]Replacing wpvividstg01_dokan_delivery_time is completed.
+[2022-01-14 12:32:35][notice]Start processing db_replace.
+[2022-01-14 12:32:35][notice]Prepare to replace database.
+[2022-01-14 12:32:35][notice]Replacing database tables is completed.
+[2022-01-14 12:32:36][notice]Replacing wpvividstg01_dokan_distance_rate_shipping is completed.
+[2022-01-14 12:32:40][notice]Start processing db_replace.
+[2022-01-14 12:32:40][notice]Prepare to replace database.
+[2022-01-14 12:32:40][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:32:40][notice]Replacing database tables is completed.
+[2022-01-14 12:32:41][notice]Replacing wpvividstg01_dokan_follow_store_followers is completed.
+[2022-01-14 12:32:46][notice]Start processing db_replace.
+[2022-01-14 12:32:46][notice]Prepare to replace database.
+[2022-01-14 12:32:46][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:32:46][notice]Replacing database tables is completed.
+[2022-01-14 12:32:46][notice]Replacing wpvividstg01_dokan_orders is completed.
+[2022-01-14 12:32:50][notice]Start processing db_replace.
+[2022-01-14 12:32:50][notice]Prepare to replace database.
+[2022-01-14 12:32:50][notice]Replacing database tables is completed.
+[2022-01-14 12:32:50][notice]Replacing wpvividstg01_dokan_product_map is completed.
+[2022-01-14 12:32:54][notice]Start processing db_replace.
+[2022-01-14 12:32:54][notice]Prepare to replace database.
+[2022-01-14 12:32:54][notice]Replacing database tables is completed.
+[2022-01-14 12:32:54][notice]Replacing wpvividstg01_dokan_refund is completed.
+[2022-01-14 12:32:58][notice]Start processing db_replace.
+[2022-01-14 12:32:59][notice]Prepare to replace database.
+[2022-01-14 12:32:59][notice]Replacing database tables is completed.
+[2022-01-14 12:32:59][notice]Replacing wpvividstg01_dokan_report_abuse_reports is completed.
+[2022-01-14 12:33:03][notice]Start processing db_replace.
+[2022-01-14 12:33:03][notice]Prepare to replace database.
+[2022-01-14 12:33:03][notice]Replacing database tables is completed.
+[2022-01-14 12:33:03][notice]Replacing wpvividstg01_dokan_rma_conversations is completed.
+[2022-01-14 12:33:09][notice]Start processing db_replace.
+[2022-01-14 12:33:09][notice]Prepare to replace database.
+[2022-01-14 12:33:09][notice]Replacing database tables is completed.
+[2022-01-14 12:33:09][notice]Replacing wpvividstg01_dokan_rma_request is completed.
+[2022-01-14 12:33:14][notice]Start processing db_replace.
+[2022-01-14 12:33:14][notice]Prepare to replace database.
+[2022-01-14 12:33:14][notice]Replacing database tables is completed.
+[2022-01-14 12:33:14][notice]Replacing wpvividstg01_dokan_rma_request_product is completed.
+[2022-01-14 12:33:18][notice]Start processing db_replace.
+[2022-01-14 12:33:18][notice]Prepare to replace database.
+[2022-01-14 12:33:18][notice]Replacing database tables is completed.
+[2022-01-14 12:33:18][notice]Replacing wpvividstg01_dokan_shipping_tracking is completed.
+[2022-01-14 12:33:22][notice]Start processing db_replace.
+[2022-01-14 12:33:22][notice]Prepare to replace database.
+[2022-01-14 12:33:22][notice]Replacing database tables is completed.
+[2022-01-14 12:33:22][notice]Replacing wpvividstg01_dokan_shipping_zone_locations is completed.
+[2022-01-14 12:33:28][notice]Start processing db_replace.
+[2022-01-14 12:33:29][notice]Prepare to replace database.
+[2022-01-14 12:33:29][notice]Replacing database tables is completed.
+[2022-01-14 12:33:29][notice]Replacing wpvividstg01_dokan_shipping_zone_methods is completed.
+[2022-01-14 12:33:33][notice]Start processing db_replace.
+[2022-01-14 12:33:33][notice]Prepare to replace database.
+[2022-01-14 12:33:33][notice]Replacing database tables is completed.
+[2022-01-14 12:33:33][notice]Replacing wpvividstg01_dokan_table_rate_shipping is completed.
+[2022-01-14 12:33:37][notice]Start processing db_replace.
+[2022-01-14 12:33:37][notice]Prepare to replace database.
+[2022-01-14 12:33:37][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:33:37][notice]Replacing database tables is completed.
+[2022-01-14 12:33:37][notice]Replacing wpvividstg01_dokan_vendor_balance is completed.
+[2022-01-14 12:33:41][notice]Start processing db_replace.
+[2022-01-14 12:33:41][notice]Prepare to replace database.
+[2022-01-14 12:33:41][notice]Replacing database tables is completed.
+[2022-01-14 12:33:41][notice]Replacing wpvividstg01_dokan_withdraw is completed.
+[2022-01-14 12:33:45][notice]Start processing db_replace.
+[2022-01-14 12:33:45][notice]Prepare to replace database.
+[2022-01-14 12:33:45][Warning]Ignore table wpvividstg01_duplicator_packages
+[2022-01-14 12:33:45][notice]Replacing wpvividstg01_duplicator_packages is completed.
+[2022-01-14 12:33:49][notice]Start processing db_replace.
+[2022-01-14 12:33:49][notice]Prepare to replace database.
+[2022-01-14 12:33:49][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:33:49][notice]Replacing database tables is completed.
+[2022-01-14 12:33:49][notice]Replacing wpvividstg01_gla_budget_recommendations is completed.
+[2022-01-14 12:33:53][notice]Start processing db_replace.
+[2022-01-14 12:33:53][notice]Prepare to replace database.
+[2022-01-14 12:33:53][notice]Replacing database tables is completed.
+[2022-01-14 12:33:53][notice]Replacing wpvividstg01_gla_merchant_issues is completed.
+[2022-01-14 12:33:57][notice]Start processing db_replace.
+[2022-01-14 12:33:57][notice]Prepare to replace database.
+[2022-01-14 12:33:57][notice]Replacing database tables is completed.
+[2022-01-14 12:33:57][notice]Replacing wpvividstg01_gla_shipping_rates is completed.
+[2022-01-14 12:34:01][notice]Start processing db_replace.
+[2022-01-14 12:34:01][notice]Prepare to replace database.
+[2022-01-14 12:34:01][notice]Replacing database tables is completed.
+[2022-01-14 12:34:01][notice]Replacing wpvividstg01_gla_shipping_times is completed.
+[2022-01-14 12:34:05][notice]Start processing db_replace.
+[2022-01-14 12:34:05][notice]Prepare to replace database.
+[2022-01-14 12:34:05][notice]Replacing database tables is completed.
+[2022-01-14 12:34:05][notice]Replacing wpvividstg01_import_detail_log is completed.
+[2022-01-14 12:34:10][notice]Start processing db_replace.
+[2022-01-14 12:34:10][notice]Prepare to replace database.
+[2022-01-14 12:34:10][notice]Replacing database tables is completed.
+[2022-01-14 12:34:10][notice]Replacing wpvividstg01_import_log_detail is completed.
+[2022-01-14 12:34:14][notice]Start processing db_replace.
+[2022-01-14 12:34:14][notice]Prepare to replace database.
+[2022-01-14 12:34:14][notice]Replacing database tables is completed.
+[2022-01-14 12:34:14][notice]Replacing wpvividstg01_import_postID is completed.
+[2022-01-14 12:34:18][notice]Start processing db_replace.
+[2022-01-14 12:34:18][notice]Prepare to replace database.
+[2022-01-14 12:34:18][notice]Replacing database tables is completed.
+[2022-01-14 12:34:18][notice]Replacing wpvividstg01_links is completed.
+[2022-01-14 12:34:23][notice]Start processing db_replace.
+[2022-01-14 12:34:23][notice]Prepare to replace database.
+[2022-01-14 12:34:23][notice]Replacing database tables is completed.
+[2022-01-14 12:34:23][notice]Replacing wpvividstg01_litespeed_url is completed.
+[2022-01-14 12:34:28][notice]Start processing db_replace.
+[2022-01-14 12:34:28][notice]Prepare to replace database.
+[2022-01-14 12:34:28][notice]Replacing database tables is completed.
+[2022-01-14 12:34:28][notice]Replacing wpvividstg01_litespeed_url_file is completed.
+[2022-01-14 12:34:33][notice]Start processing db_replace.
+[2022-01-14 12:34:33][notice]Prepare to replace database.
+[2022-01-14 12:34:33][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:34:33][notice]Replacing database tables is completed.
+[2022-01-14 12:34:33][notice]Replacing wpvividstg01_mailchimp_carts is completed.
+[2022-01-14 12:34:38][notice]Start processing db_replace.
+[2022-01-14 12:34:38][notice]Prepare to replace database.
+[2022-01-14 12:34:38][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:34:38][notice]Replacing database tables is completed.
+[2022-01-14 12:34:38][notice]Replacing wpvividstg01_mailchimp_jobs is completed.
+[2022-01-14 12:34:42][notice]Start processing db_replace.
+[2022-01-14 12:34:42][notice]Prepare to replace database.
+[2022-01-14 12:34:42][notice]Replacing database tables is completed.
+[2022-01-14 12:34:42][notice]Replacing wpvividstg01_mailpoet_custom_fields is completed.
+[2022-01-14 12:34:46][notice]Start processing db_replace.
+[2022-01-14 12:34:46][notice]Prepare to replace database.
+[2022-01-14 12:34:46][notice]Replacing database tables is completed.
+[2022-01-14 12:34:46][notice]Replacing wpvividstg01_mailpoet_dynamic_segment_filters is completed.
+[2022-01-14 12:34:51][notice]Start processing db_replace.
+[2022-01-14 12:34:51][notice]Prepare to replace database.
+[2022-01-14 12:34:51][notice]Replacing database tables is completed.
+[2022-01-14 12:34:51][notice]Replacing wpvividstg01_mailpoet_feature_flags is completed.
+[2022-01-14 12:34:55][notice]Start processing db_replace.
+[2022-01-14 12:34:55][notice]Prepare to replace database.
+[2022-01-14 12:34:55][notice]Replacing database tables is completed.
+[2022-01-14 12:34:55][notice]Replacing wpvividstg01_mailpoet_forms is completed.
+[2022-01-14 12:34:59][notice]Start processing db_replace.
+[2022-01-14 12:34:59][notice]Prepare to replace database.
+[2022-01-14 12:34:59][notice]Replacing database tables is completed.
+[2022-01-14 12:34:59][notice]Replacing wpvividstg01_mailpoet_log is completed.
+[2022-01-14 12:35:03][notice]Start processing db_replace.
+[2022-01-14 12:35:03][notice]Prepare to replace database.
+[2022-01-14 12:35:03][notice]Replacing database tables is completed.
+[2022-01-14 12:35:03][notice]Replacing wpvividstg01_mailpoet_mapping_to_external_entities is completed.
+[2022-01-14 12:35:07][notice]Start processing db_replace.
+[2022-01-14 12:35:07][notice]Prepare to replace database.
+[2022-01-14 12:35:07][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:07][notice]Replacing database tables is completed.
+[2022-01-14 12:35:07][notice]Replacing wpvividstg01_mailpoet_newsletter_links is completed.
+[2022-01-14 12:35:12][notice]Start processing db_replace.
+[2022-01-14 12:35:12][notice]Prepare to replace database.
+[2022-01-14 12:35:12][notice]Replacing database tables is completed.
+[2022-01-14 12:35:12][notice]Replacing wpvividstg01_mailpoet_newsletter_option is completed.
+[2022-01-14 12:35:17][notice]Start processing db_replace.
+[2022-01-14 12:35:17][notice]Prepare to replace database.
+[2022-01-14 12:35:17][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:17][notice]Replacing database tables is completed.
+[2022-01-14 12:35:17][notice]Replacing wpvividstg01_mailpoet_newsletter_option_fields is completed.
+[2022-01-14 12:35:22][notice]Start processing db_replace.
+[2022-01-14 12:35:22][notice]Prepare to replace database.
+[2022-01-14 12:35:22][notice]Replacing database tables is completed.
+[2022-01-14 12:35:22][notice]Replacing wpvividstg01_mailpoet_newsletter_posts is completed.
+[2022-01-14 12:35:27][notice]Start processing db_replace.
+[2022-01-14 12:35:27][notice]Prepare to replace database.
+[2022-01-14 12:35:27][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:27][notice]Replacing database tables is completed.
+[2022-01-14 12:35:27][notice]Replacing wpvividstg01_mailpoet_newsletter_segment is completed.
+[2022-01-14 12:35:32][notice]Start processing db_replace.
+[2022-01-14 12:35:32][notice]Prepare to replace database.
+[2022-01-14 12:35:32][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:32][notice]Replacing database tables is completed.
+[2022-01-14 12:35:32][notice]Replacing wpvividstg01_mailpoet_newsletter_templates is completed.
+[2022-01-14 12:35:36][notice]Start processing db_replace.
+[2022-01-14 12:35:37][notice]Prepare to replace database.
+[2022-01-14 12:35:37][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:37][notice]Replacing database tables is completed.
+[2022-01-14 12:35:37][notice]Replacing wpvividstg01_mailpoet_newsletters is completed.
+[2022-01-14 12:35:42][notice]Start processing db_replace.
+[2022-01-14 12:35:42][notice]Prepare to replace database.
+[2022-01-14 12:35:42][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:42][notice]Replacing database tables is completed.
+[2022-01-14 12:35:42][notice]Replacing wpvividstg01_mailpoet_scheduled_task_subscribers is completed.
+[2022-01-14 12:35:47][notice]Start processing db_replace.
+[2022-01-14 12:35:47][notice]Prepare to replace database.
+[2022-01-14 12:35:47][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:47][notice]Replacing database tables is completed.
+[2022-01-14 12:35:47][notice]Replacing wpvividstg01_mailpoet_scheduled_tasks is completed.
+[2022-01-14 12:35:52][notice]Start processing db_replace.
+[2022-01-14 12:35:52][notice]Prepare to replace database.
+[2022-01-14 12:35:52][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:52][notice]Replacing database tables is completed.
+[2022-01-14 12:35:52][notice]Replacing wpvividstg01_mailpoet_segments is completed.
+[2022-01-14 12:35:57][notice]Start processing db_replace.
+[2022-01-14 12:35:57][notice]Prepare to replace database.
+[2022-01-14 12:35:57][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:35:57][notice]Replacing database tables is completed.
+[2022-01-14 12:35:57][notice]Replacing wpvividstg01_mailpoet_sending_queues is completed.
+[2022-01-14 12:36:02][notice]Start processing db_replace.
+[2022-01-14 12:36:02][notice]Prepare to replace database.
+[2022-01-14 12:36:02][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:02][notice]Replacing database tables is completed.
+[2022-01-14 12:36:02][notice]Replacing wpvividstg01_mailpoet_settings is completed.
+[2022-01-14 12:36:07][notice]Start processing db_replace.
+[2022-01-14 12:36:07][notice]Prepare to replace database.
+[2022-01-14 12:36:07][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:07][notice]Replacing database tables is completed.
+[2022-01-14 12:36:07][notice]Replacing wpvividstg01_mailpoet_statistics_clicks is completed.
+[2022-01-14 12:36:11][notice]Start processing db_replace.
+[2022-01-14 12:36:11][notice]Prepare to replace database.
+[2022-01-14 12:36:11][notice]Replacing database tables is completed.
+[2022-01-14 12:36:12][notice]Replacing wpvividstg01_mailpoet_statistics_forms is completed.
+[2022-01-14 12:36:16][notice]Start processing db_replace.
+[2022-01-14 12:36:16][notice]Prepare to replace database.
+[2022-01-14 12:36:16][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:16][notice]Replacing database tables is completed.
+[2022-01-14 12:36:16][notice]Replacing wpvividstg01_mailpoet_statistics_newsletters is completed.
+[2022-01-14 12:36:21][notice]Start processing db_replace.
+[2022-01-14 12:36:21][notice]Prepare to replace database.
+[2022-01-14 12:36:21][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:21][notice]Replacing database tables is completed.
+[2022-01-14 12:36:21][notice]Replacing wpvividstg01_mailpoet_statistics_opens is completed.
+[2022-01-14 12:36:26][notice]Start processing db_replace.
+[2022-01-14 12:36:26][notice]Prepare to replace database.
+[2022-01-14 12:36:26][notice]Replacing database tables is completed.
+[2022-01-14 12:36:26][notice]Replacing wpvividstg01_mailpoet_statistics_unsubscribes is completed.
+[2022-01-14 12:36:31][notice]Start processing db_replace.
+[2022-01-14 12:36:31][notice]Prepare to replace database.
+[2022-01-14 12:36:31][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:31][notice]Replacing database tables is completed.
+[2022-01-14 12:36:31][notice]Replacing wpvividstg01_mailpoet_statistics_woocommerce_purchases is completed.
+[2022-01-14 12:36:36][notice]Start processing db_replace.
+[2022-01-14 12:36:36][notice]Prepare to replace database.
+[2022-01-14 12:36:36][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:36][notice]Replacing database tables is completed.
+[2022-01-14 12:36:36][notice]Replacing wpvividstg01_mailpoet_stats_notifications is completed.
+[2022-01-14 12:36:41][notice]Start processing db_replace.
+[2022-01-14 12:36:41][notice]Prepare to replace database.
+[2022-01-14 12:36:41][notice]Replacing database tables is completed.
+[2022-01-14 12:36:41][notice]Replacing wpvividstg01_mailpoet_subscriber_custom_field is completed.
+[2022-01-14 12:36:46][notice]Start processing db_replace.
+[2022-01-14 12:36:46][notice]Prepare to replace database.
+[2022-01-14 12:36:46][notice]Replacing database tables is completed.
+[2022-01-14 12:36:46][notice]Replacing wpvividstg01_mailpoet_subscriber_ips is completed.
+[2022-01-14 12:36:51][notice]Start processing db_replace.
+[2022-01-14 12:36:51][notice]Prepare to replace database.
+[2022-01-14 12:36:51][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:51][notice]Replacing database tables is completed.
+[2022-01-14 12:36:51][notice]Replacing wpvividstg01_mailpoet_subscriber_segment is completed.
+[2022-01-14 12:36:56][notice]Start processing db_replace.
+[2022-01-14 12:36:56][notice]Prepare to replace database.
+[2022-01-14 12:36:56][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:36:56][notice]Replacing database tables is completed.
+[2022-01-14 12:36:56][notice]Replacing wpvividstg01_mailpoet_subscribers is completed.
+[2022-01-14 12:37:01][notice]Start processing db_replace.
+[2022-01-14 12:37:01][notice]Prepare to replace database.
+[2022-01-14 12:37:01][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:01][notice]Replacing database tables is completed.
+[2022-01-14 12:37:01][notice]Replacing wpvividstg01_mailpoet_user_agents is completed.
+[2022-01-14 12:37:05][notice]Start processing db_replace.
+[2022-01-14 12:37:05][notice]Prepare to replace database.
+[2022-01-14 12:37:05][notice]Replacing database tables is completed.
+[2022-01-14 12:37:05][notice]Replacing wpvividstg01_mailpoet_user_flags is completed.
+[2022-01-14 12:37:10][notice]Start processing db_replace.
+[2022-01-14 12:37:10][notice]Prepare to replace database.
+[2022-01-14 12:37:10][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:10][notice]Replacing database tables is completed.
+[2022-01-14 12:37:10][notice]Replacing wpvividstg01_nx_entries is completed.
+[2022-01-14 12:37:14][notice]Start processing db_replace.
+[2022-01-14 12:37:14][notice]Prepare to replace database.
+[2022-01-14 12:37:14][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:14][notice]Replacing database tables is completed.
+[2022-01-14 12:37:14][notice]Replacing wpvividstg01_nx_posts is completed.
+[2022-01-14 12:37:19][notice]Start processing db_replace.
+[2022-01-14 12:37:19][notice]Prepare to replace database.
+[2022-01-14 12:37:19][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:19][notice]Replacing database tables is completed.
+[2022-01-14 12:37:19][notice]Replacing wpvividstg01_nx_stats is completed.
+[2022-01-14 12:37:24][notice]Start processing db_replace.
+[2022-01-14 12:37:24][notice]Prepare to replace database.
+[2022-01-14 12:37:24][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:24][notice]Replacing database tables is completed.
+[2022-01-14 12:37:24][notice]UPDATE wpvividstg01_options SET option_name="wpvividstg01_user_roles" WHERE option_name="wp_user_roles";
+[2022-01-14 12:37:24][notice]The length of UPDATE statement: 104
+[2022-01-14 12:37:24][notice]Replacing wpvividstg01_options is completed.
+[2022-01-14 12:37:29][notice]Start processing db_replace.
+[2022-01-14 12:37:29][notice]Prepare to replace database.
+[2022-01-14 12:37:29][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:33][notice]Replacing database tables is completed.
+[2022-01-14 12:37:33][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:33][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":5000,"finished":0}
+[2022-01-14 12:37:33][notice]Start replacing the table prefix from 5000 row.
+[2022-01-14 12:37:35][notice]Replacing database tables is completed.
+[2022-01-14 12:37:35][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:35][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":10000,"finished":0}
+[2022-01-14 12:37:35][notice]Start replacing the table prefix from 10000 row.
+[2022-01-14 12:37:36][notice]Replacing database tables is completed.
+[2022-01-14 12:37:36][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:36][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":15000,"finished":0}
+[2022-01-14 12:37:36][notice]Start replacing the table prefix from 15000 row.
+[2022-01-14 12:37:38][notice]Replacing database tables is completed.
+[2022-01-14 12:37:38][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:38][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":20000,"finished":0}
+[2022-01-14 12:37:38][notice]Start replacing the table prefix from 20000 row.
+[2022-01-14 12:37:38][notice]Replacing database tables is completed.
+[2022-01-14 12:37:38][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:38][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":25000,"finished":0}
+[2022-01-14 12:37:38][notice]Start replacing the table prefix from 25000 row.
+[2022-01-14 12:37:38][notice]Replacing database tables is completed.
+[2022-01-14 12:37:38][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:38][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":30000,"finished":0}
+[2022-01-14 12:37:38][notice]Start replacing the table prefix from 30000 row.
+[2022-01-14 12:37:38][notice]Replacing database tables is completed.
+[2022-01-14 12:37:38][notice]5000 queries of wpvividstg01_postmeta is replaced.
+[2022-01-14 12:37:38][notice]The next replacing table info: {"name":"wpvividstg01_postmeta","create":1,"start":35000,"finished":0}
+[2022-01-14 12:37:38][notice]Start replacing the table prefix from 35000 row.
+[2022-01-14 12:37:40][notice]Replacing database tables is completed.
+[2022-01-14 12:37:40][notice]Replacing wpvividstg01_postmeta is completed.
+[2022-01-14 12:37:45][notice]Start processing db_replace.
+[2022-01-14 12:37:45][notice]Prepare to replace database.
+[2022-01-14 12:37:45][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:37:54][notice]Replacing database tables is completed.
+[2022-01-14 12:37:54][notice]Replacing wpvividstg01_posts is completed.
+[2022-01-14 12:37:58][notice]Start processing db_replace.
+[2022-01-14 12:37:58][notice]Prepare to replace database.
+[2022-01-14 12:37:58][notice]Replacing database tables is completed.
+[2022-01-14 12:37:58][notice]Replacing wpvividstg01_pv_commission is completed.
+[2022-01-14 12:38:03][notice]Start processing db_replace.
+[2022-01-14 12:38:03][notice]Prepare to replace database.
+[2022-01-14 12:38:03][notice]Replacing database tables is completed.
+[2022-01-14 12:38:03][notice]Replacing wpvividstg01_rank_math_internal_links is completed.
+[2022-01-14 12:38:07][notice]Start processing db_replace.
+[2022-01-14 12:38:07][notice]Prepare to replace database.
+[2022-01-14 12:38:07][notice]Replacing database tables is completed.
+[2022-01-14 12:38:07][notice]Replacing wpvividstg01_rank_math_internal_meta is completed.
+[2022-01-14 12:38:12][notice]Start processing db_replace.
+[2022-01-14 12:38:12][notice]Prepare to replace database.
+[2022-01-14 12:38:12][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:38:12][notice]Replacing database tables is completed.
+[2022-01-14 12:38:12][notice]Replacing wpvividstg01_revslider_css is completed.
+[2022-01-14 12:38:16][notice]Start processing db_replace.
+[2022-01-14 12:38:16][notice]Prepare to replace database.
+[2022-01-14 12:38:16][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:38:16][notice]Replacing database tables is completed.
+[2022-01-14 12:38:16][notice]Replacing wpvividstg01_revslider_css_bkp is completed.
+[2022-01-14 12:38:20][notice]Start processing db_replace.
+[2022-01-14 12:38:20][notice]Prepare to replace database.
+[2022-01-14 12:38:20][notice]Replacing database tables is completed.
+[2022-01-14 12:38:20][notice]Replacing wpvividstg01_revslider_layer_animations is completed.
+[2022-01-14 12:38:25][notice]Start processing db_replace.
+[2022-01-14 12:38:25][notice]Prepare to replace database.
+[2022-01-14 12:38:25][notice]Replacing database tables is completed.
+[2022-01-14 12:38:25][notice]Replacing wpvividstg01_revslider_layer_animations_bkp is completed.
+[2022-01-14 12:38:30][notice]Start processing db_replace.
+[2022-01-14 12:38:30][notice]Prepare to replace database.
+[2022-01-14 12:38:30][notice]Replacing database tables is completed.
+[2022-01-14 12:38:30][notice]Replacing wpvividstg01_revslider_navigations is completed.
+[2022-01-14 12:38:34][notice]Start processing db_replace.
+[2022-01-14 12:38:34][notice]Prepare to replace database.
+[2022-01-14 12:38:34][notice]Replacing database tables is completed.
+[2022-01-14 12:38:34][notice]Replacing wpvividstg01_revslider_navigations_bkp is completed.
+[2022-01-14 12:38:40][notice]Start processing db_replace.
+[2022-01-14 12:38:40][notice]Prepare to replace database.
+[2022-01-14 12:38:40][notice]Replacing database tables is completed.
+[2022-01-14 12:38:40][notice]Replacing wpvividstg01_revslider_sliders is completed.
+[2022-01-14 12:38:44][notice]Start processing db_replace.
+[2022-01-14 12:38:44][notice]Prepare to replace database.
+[2022-01-14 12:38:44][notice]Replacing database tables is completed.
+[2022-01-14 12:38:44][notice]Replacing wpvividstg01_revslider_sliders_bkp is completed.
+[2022-01-14 12:38:48][notice]Start processing db_replace.
+[2022-01-14 12:38:48][notice]Prepare to replace database.
+[2022-01-14 12:38:48][notice]Replacing database tables is completed.
+[2022-01-14 12:38:48][notice]Replacing wpvividstg01_revslider_slides is completed.
+[2022-01-14 12:38:53][notice]Start processing db_replace.
+[2022-01-14 12:38:53][notice]Prepare to replace database.
+[2022-01-14 12:38:53][notice]Replacing database tables is completed.
+[2022-01-14 12:38:53][notice]Replacing wpvividstg01_revslider_slides_bkp is completed.
+[2022-01-14 12:38:57][notice]Start processing db_replace.
+[2022-01-14 12:38:57][notice]Prepare to replace database.
+[2022-01-14 12:38:57][notice]Replacing database tables is completed.
+[2022-01-14 12:38:57][notice]Replacing wpvividstg01_revslider_static_slides is completed.
+[2022-01-14 12:39:02][notice]Start processing db_replace.
+[2022-01-14 12:39:02][notice]Prepare to replace database.
+[2022-01-14 12:39:02][notice]Replacing database tables is completed.
+[2022-01-14 12:39:02][notice]Replacing wpvividstg01_revslider_static_slides_bkp is completed.
+[2022-01-14 12:39:06][notice]Start processing db_replace.
+[2022-01-14 12:39:06][notice]Prepare to replace database.
+[2022-01-14 12:39:06][notice]Replacing database tables is completed.
+[2022-01-14 12:39:06][notice]Replacing wpvividstg01_smackcsv_file_events is completed.
+[2022-01-14 12:39:11][notice]Start processing db_replace.
+[2022-01-14 12:39:11][notice]Prepare to replace database.
+[2022-01-14 12:39:11][notice]Replacing database tables is completed.
+[2022-01-14 12:39:11][notice]Replacing wpvividstg01_smackuci_events is completed.
+[2022-01-14 12:39:15][notice]Start processing db_replace.
+[2022-01-14 12:39:15][notice]Prepare to replace database.
+[2022-01-14 12:39:15][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:39:15][notice]Replacing database tables is completed.
+[2022-01-14 12:39:15][notice]Replacing wpvividstg01_social_users is completed.
+[2022-01-14 12:39:19][notice]Start processing db_replace.
+[2022-01-14 12:39:19][notice]Prepare to replace database.
+[2022-01-14 12:39:19][Warning]Ignore table wpvividstg01_term_relationships
+[2022-01-14 12:39:19][notice]Replacing wpvividstg01_term_relationships is completed.
+[2022-01-14 12:39:24][notice]Start processing db_replace.
+[2022-01-14 12:39:24][notice]Prepare to replace database.
+[2022-01-14 12:39:24][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:39:24][notice]Replacing database tables is completed.
+[2022-01-14 12:39:24][notice]Replacing wpvividstg01_term_taxonomy is completed.
+[2022-01-14 12:39:29][notice]Start processing db_replace.
+[2022-01-14 12:39:29][notice]Prepare to replace database.
+[2022-01-14 12:39:29][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:39:29][notice]Replacing database tables is completed.
+[2022-01-14 12:39:29][notice]Replacing wpvividstg01_termmeta is completed.
+[2022-01-14 12:39:37][notice]Start processing db_replace.
+[2022-01-14 12:39:37][notice]Prepare to replace database.
+[2022-01-14 12:39:37][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:39:37][notice]Replacing database tables is completed.
+[2022-01-14 12:39:37][notice]Replacing wpvividstg01_terms is completed.
+[2022-01-14 12:39:41][notice]Start processing db_replace.
+[2022-01-14 12:39:41][notice]Prepare to replace database.
+[2022-01-14 12:39:41][notice]Replacing database tables is completed.
+[2022-01-14 12:39:41][notice]Replacing wpvividstg01_ultimate_csv_importer_acf_fields is completed.
+[2022-01-14 12:39:45][notice]Start processing db_replace.
+[2022-01-14 12:39:45][notice]Prepare to replace database.
+[2022-01-14 12:39:45][notice]Replacing database tables is completed.
+[2022-01-14 12:39:45][notice]Replacing wpvividstg01_ultimate_csv_importer_mappingtemplate is completed.
+[2022-01-14 12:39:50][notice]Start processing db_replace.
+[2022-01-14 12:39:50][notice]Prepare to replace database.
+[2022-01-14 12:39:50][notice]Replacing database tables is completed.
+[2022-01-14 12:39:50][notice]Replacing wpvividstg01_ultimate_csv_importer_media is completed.
+[2022-01-14 12:39:54][notice]Start processing db_replace.
+[2022-01-14 12:39:54][notice]Prepare to replace database.
+[2022-01-14 12:39:54][notice]Replacing database tables is completed.
+[2022-01-14 12:39:54][notice]Replacing wpvividstg01_ultimate_csv_importer_shortcode_manager is completed.
+[2022-01-14 12:39:59][notice]Start processing db_replace.
+[2022-01-14 12:39:59][notice]Prepare to replace database.
+[2022-01-14 12:39:59][notice]Replacing database tables is completed.
+[2022-01-14 12:39:59][notice]Replacing wpvividstg01_ultimate_post_entries is completed.
+[2022-01-14 12:40:03][notice]Start processing db_replace.
+[2022-01-14 12:40:03][notice]Prepare to replace database.
+[2022-01-14 12:40:03][notice]UPDATE wpvividstg01_usermeta SET meta_key=REPLACE(meta_key,"wp_","wpvividstg01_") WHERE meta_key LIKE "wp\_%";
+[2022-01-14 12:40:03][notice]The length of UPDATE statement: 110
+[2022-01-14 12:40:03][notice]Replacing wpvividstg01_usermeta is completed.
+[2022-01-14 12:40:08][notice]Start processing db_replace.
+[2022-01-14 12:40:08][notice]Prepare to replace database.
+[2022-01-14 12:40:08][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:08][notice]Replacing database tables is completed.
+[2022-01-14 12:40:08][notice]Replacing wpvividstg01_users is completed.
+[2022-01-14 12:40:12][notice]Start processing db_replace.
+[2022-01-14 12:40:12][notice]Prepare to replace database.
+[2022-01-14 12:40:12][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:12][notice]Replacing database tables is completed.
+[2022-01-14 12:40:12][notice]Replacing wpvividstg01_wc_admin_note_actions is completed.
+[2022-01-14 12:40:17][notice]Start processing db_replace.
+[2022-01-14 12:40:17][notice]Prepare to replace database.
+[2022-01-14 12:40:17][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:17][notice]Replacing database tables is completed.
+[2022-01-14 12:40:17][notice]Replacing wpvividstg01_wc_admin_notes is completed.
+[2022-01-14 12:40:21][notice]Start processing db_replace.
+[2022-01-14 12:40:21][notice]Prepare to replace database.
+[2022-01-14 12:40:21][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:21][notice]Replacing database tables is completed.
+[2022-01-14 12:40:21][notice]Replacing wpvividstg01_wc_category_lookup is completed.
+[2022-01-14 12:40:26][notice]Start processing db_replace.
+[2022-01-14 12:40:26][notice]Prepare to replace database.
+[2022-01-14 12:40:26][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:26][notice]Replacing database tables is completed.
+[2022-01-14 12:40:26][notice]Replacing wpvividstg01_wc_customer_lookup is completed.
+[2022-01-14 12:40:31][notice]Start processing db_replace.
+[2022-01-14 12:40:31][notice]Prepare to replace database.
+[2022-01-14 12:40:31][notice]Replacing database tables is completed.
+[2022-01-14 12:40:31][notice]Replacing wpvividstg01_wc_download_log is completed.
+[2022-01-14 12:40:35][notice]Start processing db_replace.
+[2022-01-14 12:40:35][notice]Prepare to replace database.
+[2022-01-14 12:40:35][notice]Replacing database tables is completed.
+[2022-01-14 12:40:35][notice]Replacing wpvividstg01_wc_order_coupon_lookup is completed.
+[2022-01-14 12:40:40][notice]Start processing db_replace.
+[2022-01-14 12:40:40][notice]Prepare to replace database.
+[2022-01-14 12:40:40][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:40][notice]Replacing database tables is completed.
+[2022-01-14 12:40:40][notice]Replacing wpvividstg01_wc_order_product_lookup is completed.
+[2022-01-14 12:40:44][notice]Start processing db_replace.
+[2022-01-14 12:40:44][notice]Prepare to replace database.
+[2022-01-14 12:40:44][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:44][notice]Replacing database tables is completed.
+[2022-01-14 12:40:44][notice]Replacing wpvividstg01_wc_order_stats is completed.
+[2022-01-14 12:40:48][notice]Start processing db_replace.
+[2022-01-14 12:40:48][notice]Prepare to replace database.
+[2022-01-14 12:40:48][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:48][notice]Replacing database tables is completed.
+[2022-01-14 12:40:48][notice]Replacing wpvividstg01_wc_order_tax_lookup is completed.
+[2022-01-14 12:40:53][notice]Start processing db_replace.
+[2022-01-14 12:40:53][notice]Prepare to replace database.
+[2022-01-14 12:40:53][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:40:53][notice]Replacing database tables is completed.
+[2022-01-14 12:40:53][notice]Replacing wpvividstg01_wc_product_meta_lookup is completed.
+[2022-01-14 12:40:57][notice]Start processing db_replace.
+[2022-01-14 12:40:57][notice]Prepare to replace database.
+[2022-01-14 12:40:57][notice]Replacing database tables is completed.
+[2022-01-14 12:40:57][notice]Replacing wpvividstg01_wc_reserved_stock is completed.
+[2022-01-14 12:41:02][notice]Start processing db_replace.
+[2022-01-14 12:41:02][notice]Prepare to replace database.
+[2022-01-14 12:41:02][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:41:02][notice]Replacing database tables is completed.
+[2022-01-14 12:41:02][notice]Replacing wpvividstg01_wc_tax_rate_classes is completed.
+[2022-01-14 12:41:06][notice]Start processing db_replace.
+[2022-01-14 12:41:06][notice]Prepare to replace database.
+[2022-01-14 12:41:06][notice]Replacing database tables is completed.
+[2022-01-14 12:41:06][notice]Replacing wpvividstg01_wc_webhooks is completed.
+[2022-01-14 12:41:11][notice]Start processing db_replace.
+[2022-01-14 12:41:11][notice]Prepare to replace database.
+[2022-01-14 12:41:11][notice]Replacing database tables is completed.
+[2022-01-14 12:41:11][notice]Replacing wpvividstg01_wemail_forms is completed.
+[2022-01-14 12:41:16][notice]Start processing db_replace.
+[2022-01-14 12:41:16][notice]Prepare to replace database.
+[2022-01-14 12:41:16][notice]Replacing database tables is completed.
+[2022-01-14 12:41:16][notice]Replacing wpvividstg01_woocommerce_api_keys is completed.
+[2022-01-14 12:41:20][notice]Start processing db_replace.
+[2022-01-14 12:41:20][notice]Prepare to replace database.
+[2022-01-14 12:41:20][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:41:20][notice]Replacing database tables is completed.
+[2022-01-14 12:41:20][notice]Replacing wpvividstg01_woocommerce_attribute_taxonomies is completed.
+[2022-01-14 12:41:25][notice]Start processing db_replace.
+[2022-01-14 12:41:25][notice]Prepare to replace database.
+[2022-01-14 12:41:25][notice]Replacing database tables is completed.
+[2022-01-14 12:41:25][notice]Replacing wpvividstg01_woocommerce_downloadable_product_permissions is completed.
+[2022-01-14 12:41:30][notice]Start processing db_replace.
+[2022-01-14 12:41:30][notice]Prepare to replace database.
+[2022-01-14 12:41:30][notice]Replacing database tables is completed.
+[2022-01-14 12:41:30][notice]Replacing wpvividstg01_woocommerce_log is completed.
+[2022-01-14 12:41:35][notice]Start processing db_replace.
+[2022-01-14 12:41:36][notice]Prepare to replace database.
+[2022-01-14 12:41:36][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:41:36][notice]Replacing database tables is completed.
+[2022-01-14 12:41:36][notice]Replacing wpvividstg01_woocommerce_order_itemmeta is completed.
+[2022-01-14 12:41:40][notice]Start processing db_replace.
+[2022-01-14 12:41:40][notice]Prepare to replace database.
+[2022-01-14 12:41:40][Warning]Ignore table wpvividstg01_woocommerce_order_items
+[2022-01-14 12:41:40][notice]Replacing wpvividstg01_woocommerce_order_items is completed.
+[2022-01-14 12:41:45][notice]Start processing db_replace.
+[2022-01-14 12:41:45][notice]Prepare to replace database.
+[2022-01-14 12:41:45][notice]Replacing database tables is completed.
+[2022-01-14 12:41:45][notice]Replacing wpvividstg01_woocommerce_payment_tokenmeta is completed.
+[2022-01-14 12:41:50][notice]Start processing db_replace.
+[2022-01-14 12:41:50][notice]Prepare to replace database.
+[2022-01-14 12:41:50][notice]Replacing database tables is completed.
+[2022-01-14 12:41:50][notice]Replacing wpvividstg01_woocommerce_payment_tokens is completed.
+[2022-01-14 12:41:55][notice]Start processing db_replace.
+[2022-01-14 12:41:55][notice]Prepare to replace database.
+[2022-01-14 12:41:55][Warning]Ignore table wpvividstg01_woocommerce_sessions
+[2022-01-14 12:41:55][notice]Replacing wpvividstg01_woocommerce_sessions is completed.
+[2022-01-14 12:41:59][notice]Start processing db_replace.
+[2022-01-14 12:41:59][notice]Prepare to replace database.
+[2022-01-14 12:41:59][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:41:59][notice]Replacing database tables is completed.
+[2022-01-14 12:41:59][notice]Replacing wpvividstg01_woocommerce_shipping_zone_locations is completed.
+[2022-01-14 12:42:04][notice]Start processing db_replace.
+[2022-01-14 12:42:04][notice]Prepare to replace database.
+[2022-01-14 12:42:04][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:42:04][notice]Replacing database tables is completed.
+[2022-01-14 12:42:04][notice]Replacing wpvividstg01_woocommerce_shipping_zone_methods is completed.
+[2022-01-14 12:42:09][notice]Start processing db_replace.
+[2022-01-14 12:42:09][notice]Prepare to replace database.
+[2022-01-14 12:42:09][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:42:09][notice]Replacing database tables is completed.
+[2022-01-14 12:42:09][notice]Replacing wpvividstg01_woocommerce_shipping_zones is completed.
+[2022-01-14 12:42:14][notice]Start processing db_replace.
+[2022-01-14 12:42:14][notice]Prepare to replace database.
+[2022-01-14 12:42:14][notice]Replacing database tables is completed.
+[2022-01-14 12:42:14][notice]Replacing wpvividstg01_woocommerce_tax_rate_locations is completed.
+[2022-01-14 12:42:19][notice]Start processing db_replace.
+[2022-01-14 12:42:19][notice]Prepare to replace database.
+[2022-01-14 12:42:19][notice]Replacing database tables is completed.
+[2022-01-14 12:42:19][notice]Replacing wpvividstg01_woocommerce_tax_rates is completed.
+[2022-01-14 12:42:24][notice]Start processing db_replace.
+[2022-01-14 12:42:24][notice]Prepare to replace database.
+[2022-01-14 12:42:24][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:42:24][notice]Replacing database tables is completed.
+[2022-01-14 12:42:24][notice]Replacing wpvividstg01_wpmailsmtp_debug_events is completed.
+[2022-01-14 12:42:29][notice]Start processing db_replace.
+[2022-01-14 12:42:29][notice]Prepare to replace database.
+[2022-01-14 12:42:29][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:42:29][notice]Replacing database tables is completed.
+[2022-01-14 12:42:29][notice]Replacing wpvividstg01_wpmailsmtp_tasks_meta is completed.
+[2022-01-14 12:42:33][notice]Start processing db_replace.
+[2022-01-14 12:42:33][notice]Prepare to replace database.
+[2022-01-14 12:42:33][notice]Replacing database tables is completed.
+[2022-01-14 12:42:33][notice]Replacing wpvividstg01_wpvivid_scan_result is completed.
+[2022-01-14 12:42:38][notice]Start processing db_replace.
+[2022-01-14 12:42:38][notice]Prepare to replace database.
+[2022-01-14 12:42:38][notice]Replacing database tables is completed.
+[2022-01-14 12:42:38][notice]Replacing wpvividstg01_wpvivid_unused_uploads_files is completed.
+[2022-01-14 12:42:43][notice]Start processing db_replace.
+[2022-01-14 12:42:43][notice]Prepare to replace database.
+[2022-01-14 12:42:43][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:42:43][notice]Replacing database tables is completed.
+[2022-01-14 12:42:43][notice]Replacing wpvividstg01_wt_iew_action_history is completed.
+[2022-01-14 12:42:48][notice]Start processing db_replace.
+[2022-01-14 12:42:48][notice]Prepare to replace database.
+[2022-01-14 12:42:48][notice]Replacing database tables is completed.
+[2022-01-14 12:42:48][notice]Replacing wpvividstg01_wt_iew_cron is completed.
+[2022-01-14 12:42:53][notice]Start processing db_replace.
+[2022-01-14 12:42:53][notice]Prepare to replace database.
+[2022-01-14 12:42:53][notice]Replacing database tables is completed.
+[2022-01-14 12:42:53][notice]Replacing wpvividstg01_wt_iew_ftp is completed.
+[2022-01-14 12:42:58][notice]Start processing db_replace.
+[2022-01-14 12:42:58][notice]Prepare to replace database.
+[2022-01-14 12:42:58][notice]Replacing database tables is completed.
+[2022-01-14 12:42:58][notice]Replacing wpvividstg01_wt_iew_mapping_template is completed.
+[2022-01-14 12:43:02][notice]Start processing db_replace.
+[2022-01-14 12:43:02][notice]Prepare to replace database.
+[2022-01-14 12:43:02][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:43:02][notice]Replacing database tables is completed.
+[2022-01-14 12:43:02][notice]Replacing wpvividstg01_yith_wcwl is completed.
+[2022-01-14 12:43:07][notice]Start processing db_replace.
+[2022-01-14 12:43:07][notice]Prepare to replace database.
+[2022-01-14 12:43:07][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:43:07][notice]Replacing database tables is completed.
+[2022-01-14 12:43:07][notice]Replacing wpvividstg01_yith_wcwl_lists is completed.
+[2022-01-14 12:43:12][notice]Start processing db_replace.
+[2022-01-14 12:43:12][notice]Prepare to replace database.
+[2022-01-14 12:43:13][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:43:13][notice]Replacing database tables is completed.
+[2022-01-14 12:43:13][notice]Replacing wpvividstg01_yoast_indexable is completed.
+[2022-01-14 12:43:17][notice]Start processing db_replace.
+[2022-01-14 12:43:17][notice]Prepare to replace database.
+[2022-01-14 12:43:17][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:43:17][notice]Replacing database tables is completed.
+[2022-01-14 12:43:17][notice]Replacing wpvividstg01_yoast_indexable_hierarchy is completed.
+[2022-01-14 12:43:22][notice]Start processing db_replace.
+[2022-01-14 12:43:22][notice]Prepare to replace database.
+[2022-01-14 12:43:22][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:43:22][notice]Replacing database tables is completed.
+[2022-01-14 12:43:22][notice]Replacing wpvividstg01_yoast_migrations is completed.
+[2022-01-14 12:43:27][notice]Start processing db_replace.
+[2022-01-14 12:43:27][notice]Prepare to replace database.
+[2022-01-14 12:43:27][notice]Replacing database tables is completed.
+[2022-01-14 12:43:28][notice]Replacing wpvividstg01_yoast_primary_term is completed.
+[2022-01-14 12:43:32][notice]Start processing db_replace.
+[2022-01-14 12:43:32][notice]Prepare to replace database.
+[2022-01-14 12:43:32][notice]Start replacing the table prefix from 0 row.
+[2022-01-14 12:43:32][notice]Replacing database tables is completed.
+[2022-01-14 12:43:32][notice]Replacing wpvividstg01_yoast_seo_links is completed.
+[2022-01-14 12:43:32][notice]UPDATE wpvividstg01_options SET option_value = '' WHERE option_name = 'rewrite_rules'
+[2022-01-14 12:43:32][notice]INSERT INTO wpvividstg01_options (option_name,option_value) VALUES ('wpvivid_staging_finish',1)
+[2022-01-14 12:43:32][notice]INSERT INTO wpvividstg01_options (option_name,option_value) VALUES ('wpvivid_staging_data','a:6:{s:2:\"id\";s:21:\"wpvivid-61e168a7ad57a\";s:4:\"name\";s:60:\"/home/u481628193/domains/swiddly.com/public_html/mystaging01\";s:6:\"prefix\";s:13:\"wpvividstg01_\";s:16:\"parent_admin_url\";s:55:\"https://www.swiddly.com/wp-admin/admin.php?page=WPvivid\";s:13:\"live_site_url\";s:23:\"https://www.swiddly.com\";s:21:\"live_site_staging_url\";s:63:\"https://www.swiddly.com/wp-admin/admin.php?page=WPvivid_Staging\";}')
+[2022-01-14 12:43:32][notice]UPDATE wpvividstg01_options SET option_value = '0' WHERE option_name = 'blog_public'
+[2022-01-14 12:43:32][notice]UPDATE wpvividstg01_options SET option_value = '/{8690d8cfec6ed98add627b52693c5e96a41982f9d82fcb9a65545c8efe5ccb39}postname{8690d8cfec6ed98add627b52693c5e96a41982f9d82fcb9a65545c8efe5ccb39}/' WHERE option_name = 'permalink_structure'
+[2022-01-14 12:43:32][notice]UPDATE wpvividstg01_options SET option_value = '' WHERE option_name = 'upload_path'
+[2022-01-14 12:43:32][notice]Replacing database is completed.
+[2022-01-14 12:43:32][notice]Creating staging site is completed.
+[2022-01-14 12:43:40][notice]Access staging site successfully.

@@ -1,0 +1,25 @@
+2022-05-14T08:50:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 70199ed0523cc829268e45da7c2849a4
+2022-05-14T08:50:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 70199ed0523cc829268e45da7c2849a4
+2022-05-14T08:50:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 70199ed0523cc829268e45da7c2849a4
+2022-05-14T08:50:44+00:00 NOTICE abandoned_cart.success :: email: seannaclaudius@gmail.com :: checkout_url: https://www.swiddly.com/checkout/?mc_cart_id=70199ed0523cc829268e45da7c2849a4
+2022-05-14T08:50:45+00:00 NOTICE cart.member.updated :: Updated seannaclaudius@gmail.com subscriber status to subscribed and language to en
+2022-05-14T08:50:45+00:00 NOTICE abandoned_cart.success :: email: seannaclaudius@gmail.com :: checkout_url: https://www.swiddly.com/checkout/?mc_cart_id=70199ed0523cc829268e45da7c2849a4
+2022-05-14T08:50:45+00:00 NOTICE abandoned_cart.success :: email: seannaclaudius@gmail.com :: checkout_url: https://www.swiddly.com/checkout/?mc_cart_id=70199ed0523cc829268e45da7c2849a4
+2022-05-14T08:53:43+00:00 NOTICE ac.cart_swap :: Deleted cart [seannaclaudius@gmail.com] :: ID [70199ed0523cc829268e45da7c2849a4]
+2022-05-14T08:53:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 5ec65817b55f8a28fa2f5427b98e4b2a
+2022-05-14T08:53:44+00:00 NOTICE abandoned_cart.success :: email: shonclaudius@gmail.com :: checkout_url: https://www.swiddly.com/checkout/?mc_cart_id=5ec65817b55f8a28fa2f5427b98e4b2a
+2022-05-14T08:53:45+00:00 NOTICE cart.member.updated :: Updated shonclaudius@gmail.com subscriber status to transactional and language to en
+2022-05-14T08:58:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 8835
+2022-05-14T08:58:48+00:00 NOTICE debug :: Order ID 8835 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.swiddly.com/wp-json/notificationx/v1/notice/?frontend=true&_locale=user
+        )
+
+)
+
+2022-05-14T09:00:30+00:00 NOTICE order.member.updated :: Updated shonclaudius@gmail.com subscriber status to transactional and language to en
+2022-05-14T09:00:30+00:00 NOTICE order_submit.success :: addStoreOrder :: #8835 :: email: shonclaudius@gmail.com :: landing site https://www.swiddly.com/wp-json/notificationx/v1/notice/?frontend=true&_locale=user :: abandoned cart deleted [5ec65817b55f8a28fa2f5427b98e4b2a]

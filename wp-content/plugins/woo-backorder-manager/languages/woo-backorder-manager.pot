@@ -1,0 +1,177 @@
+# Copyright (C) jeffrey-wp.com
+# This file is distributed under the same license as the WooCommerce Backorder Manager
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Backorder Manager\n"
+"POT-Creation-Date: 2021-05-07 21:21+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,"
+"_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../include/csv-export-orders.php:9 ../include/csv-export-products.php:9
+msgid "No access! Please login first."
+msgstr ""
+
+#: ../include/csv-export-orders.php:17 ../include/wc_report_orders_backorders.php:178
+msgid "Order"
+msgstr ""
+
+#: ../include/csv-export-orders.php:18 ../include/csv-export-products.php:17
+msgid "SKU"
+msgstr ""
+
+#: ../include/csv-export-orders.php:19 ../include/csv-export-products.php:18
+#: ../include/wc_report_orders_backorders.php:179
+#: ../include/wc_report_stock_backorders.php:162
+msgid "Product"
+msgstr ""
+
+#: ../include/csv-export-orders.php:20 ../include/wc_report_orders_backorders.php:180
+msgid "Customer name"
+msgstr ""
+
+#: ../include/csv-export-orders.php:21
+msgid "Customer email address"
+msgstr ""
+
+#: ../include/csv-export-orders.php:22 ../include/wc_report_orders_backorders.php:181
+msgid "Date"
+msgstr ""
+
+#: ../include/csv-export-orders.php:23 ../include/wc_report_orders_backorders.php:182
+msgid "Quantity"
+msgstr ""
+
+#: ../include/csv-export-products.php:19 ../include/wc_report_stock_backorders.php:163
+msgid "Categories"
+msgstr ""
+
+#: ../include/csv-export-products.php:20 ../include/wc_report_stock_backorders.php:164
+msgid "Units backordered"
+msgstr ""
+
+#: ../include/csv-export-products.php:21 ../include/wc_report_stock_backorders.php:165
+msgid "Parent"
+msgstr ""
+
+#: ../include/wc_report_orders_backorders.php:21
+#: ../include/wc_report_stock_backorders.php:21
+msgid "No backordered items found."
+msgstr ""
+
+#: ../include/wc_report_orders_backorders.php:49
+msgid "Backordered"
+msgstr ""
+
+#: ../include/wc_report_orders_backorders.php:82
+msgid "You have not selected any orders statuses for export."
+msgstr ""
+
+#: ../include/wc_report_orders_backorders.php:83
+msgid "Select order status for export"
+msgstr ""
+
+#: ../include/wc_report_orders_backorders.php:115
+#: ../include/wc_report_stock_backorders.php:58
+msgid "CSV export"
+msgstr ""
+
+#: ../include/wc_report_orders_backorders.php:115
+#, php-format
+msgid "Total orders with items on backorder: %d"
+msgstr ""
+
+#: ../include/wc_report_stock_backorders.php:58
+#, php-format
+msgid "Total items on backorder: %d"
+msgstr ""
+
+#: ../include/wc_report_stock_backorders.php:132
+msgid "Edit"
+msgstr ""
+
+#: ../include/wc_report_stock_backorders.php:139
+msgid "View"
+msgstr ""
+
+#: ../include/wc_report_stock_backorders.php:147
+msgid "product"
+msgstr ""
+
+#: ../include/wc_report_stock_backorders.php:166
+msgid "Actions"
+msgstr ""
+
+#: ../woo-backorder-manager.php:59
+#, php-format
+msgid "%s plugin is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+
+#: ../woo-backorder-manager.php:81
+msgid "Settings"
+msgstr ""
+
+#: ../woo-backorder-manager.php:82
+msgid "Orders report"
+msgstr ""
+
+#: ../woo-backorder-manager.php:83
+msgid "Stock report"
+msgstr ""
+
+#: ../woo-backorder-manager.php:84
+msgid "Try WooCommerce Backorder Manager Pro - 100% money back guarantee"
+msgstr ""
+
+#: ../woo-backorder-manager.php:84
+msgid "Try Pro Version"
+msgstr ""
+
+#: ../woo-backorder-manager.php:106 ../woo-backorder-manager.php:130
+msgid "Backorder Manager"
+msgstr ""
+
+#: ../woo-backorder-manager.php:136
+msgid "Backorder email notifications"
+msgstr ""
+
+#: ../woo-backorder-manager.php:138
+msgid "Don't send email notifications when a backorder is made."
+msgstr ""
+
+#: ../woo-backorder-manager.php:139
+msgid "Disable backorder email notifications"
+msgstr ""
+
+#: ../woo-backorder-manager.php:143
+msgid "Report orders on backorder"
+msgstr ""
+
+#: ../woo-backorder-manager.php:145
+msgid "Select which orders statuses should appear on report orders on backorder."
+msgstr ""
+
+#: ../woo-backorder-manager.php:146
+msgid "Selected order statuses appear in report orders on backorder"
+msgstr ""
+
+#: ../woo-backorder-manager.php:185
+msgid "Backorders?"
+msgstr ""
+
+#: ../woo-backorder-manager.php:223 ../woo-backorder-manager.php:233
+msgid "On backorder"
+msgstr ""

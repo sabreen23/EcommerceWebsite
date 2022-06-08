@@ -1,0 +1,30 @@
+2022-04-21T03:16:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 321
+2022-04-21T03:16:28+00:00 NOTICE member.sync :: Subscribed Member sherebanoraj@hotmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+            [FNAME] => Sherebano
+            [LNAME] => Raj
+        )
+
+)
+
+2022-04-21T07:43:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8574
+2022-04-21T07:43:49+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8574
+2022-04-21T07:51:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8718
+2022-04-21T07:52:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8718
+2022-04-21T07:54:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8645
+2022-04-21T07:54:49+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8645
+2022-04-21T07:55:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8644
+2022-04-21T07:56:01+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8644
+2022-04-21T08:00:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8308
+2022-04-21T08:01:32+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8308
+2022-04-21T08:01:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8496
+2022-04-21T08:02:34+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8496
+2022-04-21T08:09:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8415
+2022-04-21T08:10:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8415
+2022-04-21T08:12:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8310
+2022-04-21T08:12:29+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8310
+2022-04-21T08:14:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 7980
+2022-04-21T08:14:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #7980

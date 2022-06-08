@@ -1,0 +1,4 @@
+[17-Sep-2021 15:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/u481628193/domains/swiddly.com/public_html/wp-content/themes/martfury-child/functions.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u481628193/domains/swiddly.com/public_html/wp-content/themes/martfury-child/functions.php on line 2

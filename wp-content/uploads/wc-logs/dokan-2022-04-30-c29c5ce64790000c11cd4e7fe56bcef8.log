@@ -1,0 +1,6 @@
+2022-04-30T10:56:04+00:00 DEBUG [30.04.2022 10:56:04] Dokan Vendor Subscription: : Subscription validity check ( 2022-04-30 ): checking subscription pack validity of user #47. This users subscription pack will expire on 2022-04-30
+2022-04-30T10:56:04+00:00 DEBUG [30.04.2022 10:56:04] Dokan Vendor Subscription: : Product exist check: As the package has expired of user #47 we are checking if he has any product
+2022-04-30T10:56:04+00:00 DEBUG [30.04.2022 10:56:04] Dokan Vendor Subscription: : Product status check: As the package has expired of user #47, we are changing his existing product status to draft
+2022-04-30T10:56:05+00:00 DEBUG [30.04.2022 10:56:05] Dokan Vendor Subscription: : Subscription cancel check: As the package has expired for order #7838, we are cancelling the Subscription Package of user #47
+2022-04-30T10:56:06+00:00 DEBUG [30.04.2022 10:56:06] Dokan Vendor Subscription: : Product exist check: As the package has expired of user #47 we are checking if he has any product
+2022-04-30T10:56:06+00:00 DEBUG [30.04.2022 10:56:06] Dokan Vendor Subscription: : Product status check: As the package has expired of user #47, we are changing his existing product status to draft

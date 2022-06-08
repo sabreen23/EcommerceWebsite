@@ -1,0 +1,28 @@
+2022-05-03T07:32:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 7102cf93fae9d498e94e8caf055395f8
+2022-05-03T07:32:28+00:00 NOTICE abandoned_cart.success :: email: coaching1201@gmail.com :: checkout_url: https://www.swiddly.com/checkout/?mc_cart_id=7102cf93fae9d498e94e8caf055395f8
+2022-05-03T07:32:28+00:00 NOTICE cart.member.updated :: Updated coaching1201@gmail.com subscriber status to subscribed and language to en
+2022-05-03T07:32:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 83
+2022-05-03T07:32:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 8766
+2022-05-03T07:32:54+00:00 NOTICE debug :: Order ID 8766 was pending and is now completed :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://www.swiddly.com/wp-json/apvc/v1/update_visit?ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F100.0.4896.127%20Safari%2F537.36&url=https%3A%2F%2Fwww.swiddly.com%2Fmy-account%2F&referred=&cpt=page
+        )
+
+)
+
+2022-05-03T07:33:32+00:00 NOTICE member.sync :: Updated Member coaching1201@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Sadia
+            [LNAME] => Mahmood
+        )
+
+)
+
+2022-05-03T07:34:39+00:00 NOTICE order.member.updated :: Updated coaching1201@gmail.com subscriber status to subscribed and language to en
+2022-05-03T07:34:39+00:00 NOTICE order_submit.success :: addStoreOrder :: #8766 :: email: coaching1201@gmail.com :: landing site https://www.swiddly.com/wp-json/apvc/v1/update_visit?ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F100.0.4896.127%20Safari%2F537.36&url=https%3A%2F%2Fwww.swiddly.com%2Fmy-account%2F&referred=&cpt=page :: abandoned cart deleted [7102cf93fae9d498e94e8caf055395f8]

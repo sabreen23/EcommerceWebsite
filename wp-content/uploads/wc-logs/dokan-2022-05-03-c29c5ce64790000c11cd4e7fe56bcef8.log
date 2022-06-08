@@ -1,0 +1,10 @@
+2022-05-03T07:32:49+00:00 DEBUG New Order #8766 created. Init sub order.
+2022-05-03T07:32:50+00:00 DEBUG 1 vendor only, skipping sub order.
+2022-05-03T07:32:50+00:00 DEBUG Failed to get delivery date for order id: 8766
+2022-05-03T07:32:54+00:00 DEBUG [03.05.2022 07:32:54] Dokan Vendor Subscription: : Product status check: As the package has expired of user #83, we are changing his existing product status to draft
+2022-05-03T10:56:09+00:00 DEBUG [03.05.2022 10:56:09] Dokan Vendor Subscription: : Subscription validity check ( 2022-05-03 ): checking subscription pack validity of user #77. This users subscription pack will expire on 2022-05-02
+2022-05-03T10:56:09+00:00 DEBUG [03.05.2022 10:56:09] Dokan Vendor Subscription: : Product exist check: As the package has expired of user #77 we are checking if he has any product
+2022-05-03T10:56:09+00:00 DEBUG [03.05.2022 10:56:09] Dokan Vendor Subscription: : Product status check: As the package has expired of user #77, we are changing his existing product status to draft
+2022-05-03T10:56:11+00:00 DEBUG [03.05.2022 10:56:11] Dokan Vendor Subscription: : Subscription cancel check: As the package has expired for order #7877, we are cancelling the Subscription Package of user #77
+2022-05-03T10:56:12+00:00 DEBUG [03.05.2022 10:56:12] Dokan Vendor Subscription: : Product exist check: As the package has expired of user #77 we are checking if he has any product
+2022-05-03T10:56:12+00:00 DEBUG [03.05.2022 10:56:12] Dokan Vendor Subscription: : Product status check: As the package has expired of user #77, we are changing his existing product status to draft

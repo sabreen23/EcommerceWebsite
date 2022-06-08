@@ -1,0 +1,36 @@
+09-18-2021 @ 19:07:11 - ---[ New import started at 2021-09-18 19:07:11 ] PHP Memory: 512 MB, WP Memory: 40 MB
+09-18-2021 @ 19:07:11 - Preparing for import.
+09-18-2021 @ 19:07:11 - Row :1 - Parsing item.
+09-18-2021 @ 19:07:12 - Importing as new product ID:1100
+09-18-2021 @ 19:07:12 - Row :1 - Processing item.
+09-18-2021 @ 19:07:12 - Found simple product object. ID:1100
+09-18-2021 @ 19:07:12 - Setting Featured Image. URL:http://www.swiddly.com/wp-content/uploads/2021/09/cars.jpg
+09-18-2021 @ 19:07:13 - URL:http://www.swiddly.com/wp-content/uploads/2021/09/cars.jpg Reason:Error getting remote image http://www.swiddly.com/wp-content/uploads/2021/09/cars.jpg. Error: Not Found
+09-18-2021 @ 19:07:14 - Row :1 - Product imported successfully.
+09-18-2021 @ 19:07:14 - Row :2 - Parsing item.
+09-18-2021 @ 19:07:14 - Importing as new product ID:1101
+09-18-2021 @ 19:07:14 - Row :2 - Processing item.
+09-18-2021 @ 19:07:14 - Found simple product object. ID:1101
+09-18-2021 @ 19:07:14 - Setting Featured Image. URL:http://www.swiddly.com/wp-content/uploads/2021/09/findingDory.jpeg
+09-18-2021 @ 19:07:14 - URL:http://www.swiddly.com/wp-content/uploads/2021/09/findingDory.jpeg Reason:Error getting remote image http://www.swiddly.com/wp-content/uploads/2021/09/findingDory.jpeg. Error: Not Found
+09-18-2021 @ 19:07:14 - Row :2 - Product imported successfully.
+09-18-2021 @ 19:07:14 - Row :3 - Parsing item.
+09-18-2021 @ 19:07:14 - Importing as new product ID:1102
+09-18-2021 @ 19:07:14 - Row :3 - Processing item.
+09-18-2021 @ 19:07:14 - Found simple product object. ID:1102
+09-18-2021 @ 19:07:14 - Row :3 - Product imported successfully.
+09-18-2021 @ 19:07:14 - Row :4 - Parsing item.
+09-18-2021 @ 19:07:14 - Importing as new product ID:1103
+09-18-2021 @ 19:07:14 - Row :4 - Processing item.
+09-18-2021 @ 19:07:14 - Found simple product object. ID:1103
+09-18-2021 @ 19:07:14 - Setting Featured Image. URL:http://www.swiddly.com/wp-content/uploads/2021/09/rainorshine.jpg
+09-18-2021 @ 19:07:15 - URL:http://www.swiddly.com/wp-content/uploads/2021/09/rainorshine.jpg Reason:Error getting remote image http://www.swiddly.com/wp-content/uploads/2021/09/rainorshine.jpg. Error: Not Found
+09-18-2021 @ 19:07:15 - Row :4 - Product imported successfully.
+09-18-2021 @ 19:07:15 - Row :5 - Parsing item.
+09-18-2021 @ 19:07:15 - Importing as new product ID:1104
+09-18-2021 @ 19:07:15 - Row :5 - Processing item.
+09-18-2021 @ 19:07:15 - Found simple product object. ID:1104
+09-18-2021 @ 19:07:15 - Setting Featured Image. URL:http://www.swiddly.com/wp-content/uploads/2021/09/3littlepigs.jpg
+09-18-2021 @ 19:07:16 - URL:http://www.swiddly.com/wp-content/uploads/2021/09/3littlepigs.jpg Reason:Error getting remote image http://www.swiddly.com/wp-content/uploads/2021/09/3littlepigs.jpg. Error: Not Found
+09-18-2021 @ 19:07:16 - Row :5 - Product imported successfully.
+09-18-2021 @ 19:07:16 - ---[ Import ended at 2021-09-18 19:07:16]---

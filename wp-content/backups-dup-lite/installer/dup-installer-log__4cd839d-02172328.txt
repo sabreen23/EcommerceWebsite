@@ -1,0 +1,1097 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 11:20:42
+* VERSION: 1.4.2
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.29                                |7.4.11
+OS__________________: WINNT                                 |Linux
+CREATED_____________: 2021-09-02 17:23:28
+WP VERSION__________: 5.8
+DUP VERSION_________: 1.4.2
+DB__________________: 10.4.20
+DB TABLES___________: 87
+DB ROWS_____________: 8,083
+DB FILE SIZE________: 10.27MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.11 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u481628193/domains/swiddly.com/public_html"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://www.swiddly.com/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/home/u481628193/domains/swiddly.com/public_html/20210902_swiddly_[HASH]_20210902172328_archive.zip"
+SIZE________________: 2.08MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 11:20:52 - RUNTIME: 10.4181 sec.
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 11:22:37
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.19 -- Build Server: 10.4.20
+FILE SIZE:	dup-database__[HASH].sql (3.81MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/u481628193/domains/swiddly.com/public_html/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [10.4.19] is less than the build version [10.4.20].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	750
+
+wp_actionscheduler_actions: (30)
+wp_actionscheduler_claims: (0)
+wp_actionscheduler_groups: (2)
+wp_actionscheduler_logs: (30)
+wp_avc_page_visit_history: (139)
+wp_commentmeta: (48)
+wp_comments: (128)
+wp_duplicator_packages: (0)
+wp_gla_budget_recommendations: (4230)
+wp_gla_merchant_issues: (0)
+wp_gla_shipping_rates: (0)
+wp_gla_shipping_times: (0)
+wp_links: (0)
+wp_mailchimp_carts: (0)
+wp_mailchimp_jobs: (0)
+wp_mailpoet_custom_fields: (0)
+wp_mailpoet_dynamic_segment_filters: (0)
+wp_mailpoet_feature_flags: (0)
+wp_mailpoet_forms: (0)
+wp_mailpoet_log: (0)
+wp_mailpoet_mapping_to_external_entities: (0)
+wp_mailpoet_newsletter_links: (0)
+wp_mailpoet_newsletter_option: (0)
+wp_mailpoet_newsletter_option_fields: (20)
+wp_mailpoet_newsletter_posts: (0)
+wp_mailpoet_newsletter_segment: (0)
+wp_mailpoet_newsletter_templates: (74)
+wp_mailpoet_newsletters: (0)
+wp_mailpoet_scheduled_task_subscribers: (0)
+wp_mailpoet_scheduled_tasks: (4)
+wp_mailpoet_segments: (3)
+wp_mailpoet_sending_queues: (0)
+wp_mailpoet_settings: (15)
+wp_mailpoet_statistics_clicks: (0)
+wp_mailpoet_statistics_forms: (0)
+wp_mailpoet_statistics_newsletters: (0)
+wp_mailpoet_statistics_opens: (0)
+wp_mailpoet_statistics_unsubscribes: (0)
+wp_mailpoet_statistics_woocommerce_purchases: (0)
+wp_mailpoet_stats_notifications: (0)
+wp_mailpoet_subscriber_custom_field: (0)
+wp_mailpoet_subscriber_ips: (0)
+wp_mailpoet_subscriber_segment: (11)
+wp_mailpoet_subscribers: (10)
+wp_mailpoet_user_agents: (0)
+wp_mailpoet_user_flags: (0)
+wp_options: (533)
+wp_postmeta: (1439)
+wp_posts: (190)
+wp_stock_log: (0)
+wp_term_relationships: (137)
+wp_term_taxonomy: (76)
+wp_termmeta: (101)
+wp_terms: (76)
+wp_usermeta: (195)
+wp_users: (10)
+wp_wc_admin_note_actions: (41)
+wp_wc_admin_notes: (38)
+wp_wc_category_lookup: (18)
+wp_wc_customer_lookup: (0)
+wp_wc_download_log: (0)
+wp_wc_order_coupon_lookup: (0)
+wp_wc_order_product_lookup: (0)
+wp_wc_order_stats: (0)
+wp_wc_order_tax_lookup: (0)
+wp_wc_product_meta_lookup: (19)
+wp_wc_reserved_stock: (0)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_wcpdf_invoice_number: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (4)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (75)
+wp_woocommerce_order_items: (9)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (4)
+wp_woocommerce_shipping_zone_locations: (1)
+wp_woocommerce_shipping_zone_methods: (1)
+wp_woocommerce_shipping_zones: (1)
+wp_woocommerce_tax_rate_locations: (3)
+wp_woocommerce_tax_rates: (1)
+wp_wpforms_tasks_meta: (0)
+wp_yith_wcwl: (6)
+wp_yith_wcwl_lists: (2)
+Removed '384' cache/transient rows
+
+INSERT DATA RUNTIME: 0.8095 sec.
+STEP-2 COMPLETE @ 11:22:38 - RUNTIME: 0.8353 sec.
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 11:23:20
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Swiddly"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "C:/xampp/htdocs/wordpress-5.8/wordpress"
+path_new______________: "/home/u481628193/domains/swiddly.com/public_html"
+siteurl_______________: "http://www.swiddly.com"
+url_old_______________: "http://www.localhost/wordpress-5.8/wordpress"
+url_new_______________: "http://www.swiddly.com"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    30][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_avc_page_visit_history"_______________________[ROWS:   139][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:    48][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:   128][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gla_budget_recommendations"___________________[ROWS:  4230][PG:   2][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_gla_merchant_issues"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gla_shipping_rates"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gla_shipping_times"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailchimp_carts"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailchimp_jobs"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_custom_fields"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_dynamic_segment_filters"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_feature_flags"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_forms"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_log"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_mapping_to_external_entities"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_newsletter_links"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_newsletter_option"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_newsletter_option_fields"____________[ROWS:    20][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_newsletter_posts"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_newsletter_segment"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_newsletter_templates"________________[ROWS:    74][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_newsletters"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_scheduled_task_subscribers"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_scheduled_tasks"_____________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_segments"____________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_sending_queues"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_settings"____________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_statistics_clicks"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_statistics_forms"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_statistics_newsletters"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_statistics_opens"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_statistics_unsubscribes"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_statistics_woocommerce_purchases"____[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_stats_notifications"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_subscriber_custom_field"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_subscriber_ips"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_subscriber_segment"__________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_subscribers"_________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_mailpoet_user_agents"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mailpoet_user_flags"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   533][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  1439][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   190][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_stock_log"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   137][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    76][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:   101][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    76][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   195][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    41][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    38][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wcpdf_invoice_number"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:    75][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_wpforms_tasks_meta"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yith_wcwl"____________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+
+EVALUATE TABLE: "wp_yith_wcwl_lists"______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress-5.8/wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress-5.8\/wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress-5.8%2Fwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress-5.8\wordpress" =========> "/home/u481628193/domains/swiddly.com/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress-5.8\\wordpress" =====> "\/home\/u481628193\/domains\/swiddly.com\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress-5.8%5Cwordpress" => "%2Fhome%2Fu481628193%2Fdomains%2Fswiddly.com%2Fpublic_html"
+	SEARCH  7:"//www.localhost/wordpress-5.8/wordpress" =========> "//www.swiddly.com"
+	SEARCH  8:"\/\/www.localhost\/wordpress-5.8\/wordpress" =====> "\/\/www.swiddly.com"
+	SEARCH  9:"%2F%2Fwww.localhost%2Fwordpress-5.8%2Fwordpress" => "%2F%2Fwww.swiddly.com"
+	SEARCH 10:"//localhost/wordpress-5.8/wordpress" =============> "//www.swiddly.com"
+	SEARCH 11:"\/\/localhost\/wordpress-5.8\/wordpress" =========> "\/\/www.swiddly.com"
+	SEARCH 12:"%2F%2Flocalhost%2Fwordpress-5.8%2Fwordpress" =====> "%2F%2Fwww.swiddly.com"
+	SEARCH 13:"https://www.swiddly.com" =========================> "http://www.swiddly.com"
+	SEARCH 14:"https:\/\/www.swiddly.com" =======================> "http:\/\/www.swiddly.com"
+	SEARCH 15:"https%3A%2F%2Fwww.swiddly.com" ===================> "http%3A%2F%2Fwww.swiddly.com"
+--------------------------------------
+SCANNED:	Tables:87 	|	 Rows:7726 	|	 Cells:43964 
+UPDATED:	Tables:8 	|	 Rows:381 	|	 Cells:398 
+ERRORS:		0 
+RUNTIME:	0.335800 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 11:23:20 - RUNTIME: 0.3650 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]

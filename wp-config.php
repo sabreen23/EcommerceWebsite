@@ -43,23 +43,23 @@ define( 'WP_CACHE', true );
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', "u481628193_swiddlyMart" );
+define( 'DB_NAME', 'u481628193_swiddlyMart' );
 
 
 /** MySQL database username */
 
- define( 'DB_USER', "u481628193_admin" );
+define( 'DB_USER', 'u481628193_admin' );
 
 
 
 
 /** MySQL database password */
 
- define( 'DB_PASSWORD', "Ms.ScroogesMysql911" );
+ define( 'DB_PASSWORD', 'Ms.ScroogesMysql911' );
 
 /** MySQL hostname */
 
-define( 'DB_HOST', "localhost" );
+define( 'DB_HOST', 'localhost:3306' );
 
 
 /** Database charset to use in creating database tables. */
@@ -153,9 +153,6 @@ $table_prefix = 'wp_';
 
  */
 
-define( 'WP_DEBUG', false );
-
-
 /* Add any custom values between this line and the "stop editing" line. */
 
 
@@ -167,7 +164,7 @@ define( 'WP_DEBUG_DISPLAY', false );
 
 define( 'WP_DEBUG_LOG', true );
 
-
+define( 'WP_AUTO_UPDATE_CORE', false );
 
 /* That's all, stop editing! Happy publishing. */
 
@@ -184,4 +181,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 /** Sets up WordPress vars and included files. */
 
 require_once ABSPATH . 'wp-settings.php';
-
+@ini_set('display_errors',0);

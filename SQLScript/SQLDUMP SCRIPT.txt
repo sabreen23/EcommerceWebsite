@@ -1,0 +1,1 @@
+C:\xampp\mysql\bin>mysql.exe -u u481628193_admin -p u481628193_swiddlyMart < u481628193_swiddlyMart.sql
